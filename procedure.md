@@ -2,7 +2,7 @@
 title: Procedure
 tags:
 ---
-
+## [[Protein Investigation]]
 ## **Apparatus and Chemicals**
 ### Ninhydrin solution
 ### Protease
@@ -38,12 +38,13 @@ tags:
 ## Note the time at the start of the hydrolysis reaction.
 ## Let it be for 1hour
 ## Withdraw 5 ml of the solution and measure the amino acid concentration of the solution as a function of time by using the ninhydrin colourimetric method.
-### 0.35g of Ninhydrin + 100ml ethanol in test-tube + parafilm to prevent evaporation of alcohol
+### 0.35g of Ninhydrin + 100ml ethanol/acetone in test-tube + parafilm to prevent evaporation of alcohol
 ### **Chemical process**
 ##### 1. alpha-amino acid + ninhydrin -> reduced ninhydrin + alpha-amino acid + H2O
 ##### 2. alpha-amino acid + H2O -> alpha-keto acid + NH3
 ##### 3. alpha-keto acid + NH3 -> aldehyde + CO2
 ### Suggested sampling time interval: ​10 minutes for at least one hour. Colour change: from yellow (colour of ninhydrin) to purple
+### ninhydrin, which is originally yellow, reacts with amino acid and turns deep purple
 ### **Wavelength**:​ 570nm
 ### Physical process​: 1ml of ninhydrin solution in 5ml solution of amino acid
 ninhydrin solution in 5ml solution of amino acid
