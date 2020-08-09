@@ -3,22 +3,21 @@ title: Procedure
 tags:
 ---
 
-## Apparatus and Chemicals
-### Ninhydrin solution
-### Protease
-### Protein source (cottage cheese or curds from Experiment No. 1)
+## **Apparatus and Chemicals**
+### ~~Ninhydrin solution~~
+### ~~Protease~~
+### ~~Protein source~~
 ### Spectrophotometer
-### Blender
 ### Balance
-### Test tubes
+### 250ml Conical Flask (×)
 ### Funnel and filter paper (or centrifuge)
 ### Stirring rod
 ### Thermometer
 ### Temperature bath (or heat source -- Bunsen burner or hot plate)
 ### Pipets, 1ml, 10ml
-### Graduated cylinder
-### 2 beakers, 100 ml
-### Beaker, 400 ml
+### Graduated cylinder (×)
+### $$x$$ml Beakers (×)
+### $$x$$ml Beakers (×)
 ## Make a 100g\L protein mixture by dissolving albumin in water
 ## Make a 50g/L saturated pepsin solution
 ### Why not trypsin and not pepsin?
