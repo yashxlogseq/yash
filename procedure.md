@@ -3,6 +3,22 @@ title: Procedure
 tags:
 ---
 
+## Apparatus and Chemicals
+### Ninhydrin solution
+### Protease
+### Protein source (cottage cheese or curds from Experiment No. 1)
+### Spectrophotometer
+### Blender
+### Balance
+### Test tubes
+### Funnel and filter paper (or centrifuge)
+### Stirring rod
+### Thermometer
+### Temperature bath (or heat source -- Bunsen burner or hot plate)
+### Pipets, 1ml, 10ml
+### Graduated cylinder
+### 2 beakers, 100 ml
+### Beaker, 400 ml
 ## Make a 100g\L protein mixture by dissolving albumin in water
 ## Make a 50g/L saturated pepsin solution
 ### Why not trypsin and not pepsin?
@@ -18,7 +34,9 @@ tags:
 #### DONE Genus + Species?
 ##### Potential target: _Laminaria Digitata_ (kombu kelp) found on [Lazada](https://www.lazada.sg/products/kombu-powder-i356266853-s831106321.html?exlaz=d_1:mm_150050845_51350205_2010350205::12:1025267241!54483208270!!!pla-297963845945!c!297963845945!831106321!138962662&gclid=CjwKCAjwsan5BRAOEiwALzomX0Cawyb0jV1lVOPRKdftoxPIUlBQB3d7HDq2ehAkxUtbyJCOzAu7YhoCNncQAvD_BwE)
 ## **Investigating the effect of thyroxine** -> Add 50ml of thyroxine solution
-### Thyroxine obtained from### Make a 150mcg/L solution of thyroxine solution (based on image in research paper)## Note the time at the start of the hydrolysis reaction.
+### Thyroxine obtained from
+### Make a 150mcg/L solution of thyroxine solution (based on image in research paper)
+### Note the time at the start of the hydrolysis reaction.
 ## Let it be for 1hour
 ## **_What are we measuring additionally?_**
 ### (1) Enthalpy - Using a temperature probe every 4 minutes. The reason is that that will help us get a wide range of value (15 values) and can aid in noticing minor fluctuations in the temperature.

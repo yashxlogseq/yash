@@ -14,11 +14,12 @@ tags:
 ### TODO The multiple experiment stuff
 ### TODO Hypothesis
 ### DONE Check availability of casein. **NOT AVAILABLE**
-### TODO Make Procedure suitable to your experiment
+### TODO Make procedure suitable to your experiment
 ### DONE Experiment - Effect of thyroxine on the rate of digestion
 ### TODO Experiment - The control experiment
 ### DONE Which enzyme?
 ### TODO Method to quantify lipid metabolism
+### TODO MPV - A for procedure in GDocs
 ## This procedure can be repeated for lipid metabolism and carbohydrate metabolism. I am not too sure about that though.
 ## [[TODO]]
 ## **PROTEIN**
