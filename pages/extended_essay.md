@@ -12,13 +12,14 @@ tags:
 ## [[Procedure]] Research -> [Source](https://user.eng.umd.edu/~nsw/ench485/lab3.htm)
 ## CHECKLIST
 ### TODO The multiple experiment stuff
-### TODO Hypothesis
+### NOW Hypothesis
 ### DONE Check availability of casein. **NOT AVAILABLE**
 ### TODO Make procedure suitable to your experiment
 ### DONE Experiment - Effect of thyroxine on the rate of digestion
 ### DONE Experiment - The control experiment
 ### DONE Which enzyme?
-### TODO Method to quantify lipid metabolism
+### TODO Method to quantify ((5f3007ee-1763-4c0e-ae78-09ffecaf6ef1)) metabolism
+### TODO Method to quantify ((5f3007ee-1b9a-4fc6-b0a8-dfc6eff081dc)) metabolism
 ### DONE MPV - A for procedure in GDocs
 ## This procedure can be repeated for lipid metabolism and carbohydrate metabolism. I am not too sure about that though.
 ## [[TODO]]
@@ -26,6 +27,9 @@ tags:
 ### https://www.nature.com/articles/0801292.pdf
 ### The effect of thyroid hormones on protein metabolism is characterized by a profound stimulatory effect on the synthesis of numerous cytosolic and mitochondrial proteins as well as of secretory proteins such as albumin and hormones.
 ## **LIPID**
+   :PROPERTIES:
+   :CUSTOM_ID: 5f3007ee-1763-4c0e-ae78-09ffecaf6ef1
+   :END:
 ### https://www.sciencedirect.com/science/article/pii/0016648086900079
 #### T4-stimulated lipid mobilization was indicated by decreased total lipids, primarily as triacylglycerols, and increased lipolytic enzyme (triacylglycerol lipase) activity in the liver and dark muscle.
 ##### This can be something. I can take liver, maybe get it from somewhere, and then I can test on it? Why should this not work?
@@ -34,4 +38,8 @@ tags:
 #### Their most obvious and well-known action is the increase in basal energy expenditure obtained acting on protein, carbohydrate and lipid metabolism.
 #### No direct lipolytic effect has been found in vitro. The increased lipolytic rate produced by thyroid hormones in vivo might be rela- ted to the increased subcutaneous blood- ̄ow or to a modi®cation of the lipolytic action of catecholamines.
 ### The liver thing is something that I am drawn to, lol.
-## **CARBOHYDRATE**
+## **CARBOHYDRATE** -> starch
+   :PROPERTIES:
+   :CUSTOM_ID: 5f3007ee-1b9a-4fc6-b0a8-dfc6eff081dc
+   :END:
+###
