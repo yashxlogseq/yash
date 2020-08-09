@@ -38,8 +38,18 @@ tags:
 #### Their most obvious and well-known action is the increase in basal energy expenditure obtained acting on protein, carbohydrate and lipid metabolism.
 #### No direct lipolytic effect has been found in vitro. The increased lipolytic rate produced by thyroid hormones in vivo might be rela- ted to the increased subcutaneous blood- ̄ow or to a modi®cation of the lipolytic action of catecholamines.
 ### The liver thing is something that I am drawn to, lol.
+### Fat metabolism:
+#### [Source](https://www.youtube.com/watch?v=1rRzufWI2D8&t=34s)
+##### [[https://cdn.logseq.com/%2F86e6e2fb-2f01-4c97-9a06-ba3736c40a2a2020_08_10_Screenshot%202020-08-10%20at%201.08.28%20AM.png?Expires=4750592928&Signature=MmWiMrio73FG~8mpPVWnSN4udX0hvRNUe0pCwk-Cu1nITddn8E-oQ1ShUUYKtEUIJybel0c5AVeSzp19M8~5Cwo8Qi2hZ-pMKX3Pef9XoKHYOFSR06EOYsM7UOU~NtwA3gWMAIzU87CpMLG84gqHKvgzX8wXwDwuKArfmlrW8kOiVl8tPrNyDMImuEEkL7XaFEbjdtlfT95V70MU-8G5VWlig8aNGXrtoSYj44VTIWt2PQzEjUS~0NGrDfNbox5H8R8Wy7B7f60IN552Nps76Lh52DXgLspNN8k3aaP~nw-NTQCpYrCVpPfOXzHtLh-E42STwjKQDAXwPNfEEe1K0g__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_10_Screenshot 2020-08-10 at 1.08.28 AM.png]]
+#### Apparatus + chemicals
+#### Create pancreatin solution
+#### Create bile salts
+#### Create litmus cream
+#### Add 2ml of pancreatin
+#### Add 2ml of litmus cream
+#### Add 2ml of thyroxine
+#### (Test) Add 2ml of varying concentrations of seaweed solution
 ## **CARBOHYDRATE** -> starch
    :PROPERTIES:
    :CUSTOM_ID: 5f3007ee-1b9a-4fc6-b0a8-dfc6eff081dc
    :END:
-### A potential [procedure](https://onlinelibrary.wiley.com/doi/pdf/10.1016/0307-4412)
