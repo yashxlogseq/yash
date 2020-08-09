@@ -13,9 +13,10 @@ tags:
 ## CHECKLIST
 ### TODO The multiple experiment stuff
 ### TODO Hypothesis
-### DONE Check availability of casein. **NOT AVAILABLE**### TODO Make Procedure suitable to your experimen
+### DONE Check availability of casein. **NOT AVAILABLE**
+### TODO Make Procedure suitable to your experiment
 ### DONE Experiment - Effect of thyroxine on the rate of digestion
-n### TODO Experiment - The control experimen
+### TODO Experiment - The control experiment
 ### DONE Which enzyme?
 ### TODO Method to quantify lipid metabolism
 ## This procedure can be repeated for lipid metabolism and carbohydrate metabolism. I am not too sure about that though.
