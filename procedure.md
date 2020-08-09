@@ -60,8 +60,7 @@ ninhydrin solution in 5ml solution of amino acid
 ion and absorbance (using ninhydrin colorimetry)
 ## **Control Variables**
 ### (1) No activator present
-#### Activators are molecules that bind to enzymes and increase their activity. If activators were present, the effect of iodine cannot be tested in isolation
-#### As the test was carried out _in-vitro_ no additional activators or inhibitors were added
+#### Activators are molecules that bind to enzymes and increase their activity. If activators were present, tno additional activators or inhibitors were added
 ### (2) Concentration of enzymes
 #### To test the effect of iodine in isolation
 #### A bulk solution of enzymes was created, from which the tests were carried out from
