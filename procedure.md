@@ -82,6 +82,8 @@ tags:
 ##### The reaction is conducted in a incubator at a temperature of 37ºC
 ### **DISCUSSION**
 #### Homoeopathic doctors ask for the supplementary intake of seaweed to supplement patients with iodine deficiency with iodine. I want to test the effect seaweed has on thyroxine in itself.
+## **Research** for ((5f302e32-f255-45c0-834e-57545a3f9e16))
+### What is the significance of bile salts?
 ## **Apparatus and Chemicals**
 ### Ninhydrin solution
 ### Protease
