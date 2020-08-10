@@ -82,18 +82,6 @@ tags:
 ##### The reaction is conducted in a incubator at a temperature of 37ºC
 ### **DISCUSSION**
 #### Homoeopathic doctors ask for the supplementary intake of seaweed to supplement patients with iodine deficiency with iodine. I want to test the effect seaweed has on thyroxine in itself.
-## Research for ((5f302e32-f255-45c0-834e-57545a3f9e16))
-### [Source](https://www.youtube.com/watch?v=1rRzufWI2D8&t=34s)
-###### [[https://cdn.logseq.com/%2F86e6e2fb-2f01-4c97-9a06-ba3736c40a2a2020_08_10_Screenshot%202020-08-10%20at%201.08.28%20AM.png?Expires=4750592928&Signature=MmWiMrio73FG~8mpPVWnSN4udX0hvRNUe0pCwk-Cu1nITddn8E-oQ1ShUUYKtEUIJybel0c5AVeSzp19M8~5Cwo8Qi2hZ-pMKX3Pef9XoKHYOFSR06EOYsM7UOU~NtwA3gWMAIzU87CpMLG84gqHKvgzX8wXwDwuKArfmlrW8kOiVl8tPrNyDMImuEEkL7XaFEbjdtlfT95V70MU-8G5VWlig8aNGXrtoSYj44VTIWt2PQzEjUS~0NGrDfNbox5H8R8Wy7B7f60IN552Nps76Lh52DXgLspNN8k3aaP~nw-NTQCpYrCVpPfOXzHtLh-E42STwjKQDAXwPNfEEe1K0g__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_10_Screenshot 2020-08-10 at 1.08.28 AM.png]]
-### Apparatus + chemicals
-### Create 1% pancreatin solution
-### Create bile salts
-### Create litmus cream
-### Add 2ml of pancreatin
-### Add 2ml of litmus cream
-### Add 2ml of thyroxine
-### (Test) Add 2ml of varying concentrations of seaweed solution
-### (Control) Only pancreatin + water instead of pancreatin + litmus cream
 ## **Apparatus and Chemicals**
 ### Ninhydrin solution
 ### Protease
