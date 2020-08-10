@@ -90,7 +90,8 @@ tags:
 #### "FFA Analysis" is the key word.
 #### https://pubs.rsc.org/en/content/articlelanding/2014/ay/c4ay00344f#!divAbstract
 ##### Since FFA are less stable than neutral oil, they are more prone to oxidation and to turning rancid.
-### TODO What is the significance of bile salts?
+### The presence of FFA is what raises the pH, so that is what I can investigate
+### CANCELED What is the significance of bile salts?
 ## **Apparatus and Chemicals**
 ### Ninhydrin solution
 ### Protease
