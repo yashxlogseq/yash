@@ -74,17 +74,11 @@ tags:
 ### **DISCUSSION**
 #### Homoeopathic doctors ask for the supplementary intake of seaweed to supplement patients with iodine deficiency with iodine. I want to test the effect seaweed has on thyroxine in itself.
 ## **Research** for [[Lipid Investigation]]
-### Lipid cream + pH indicator
-### Lipase + bile salts
-### Results -> The pH changes due to presence of fatty acids. oil
-### [Source](https://journals.plos.org/plosone/article/file?type=printable&id=10.1371/journal.pone.0212459)
-#### "FFA Analysis" is the key word.
-#### https://pubs.rsc.org/en/content/articlelanding/2014/ay/c4ay00344f#!divAbstract
+#### [Source](https://pubs.rsc.org/en/content/articlelanding/2014/ay/c4ay00344f#!divAbstract)
 ##### Since FFA are less stable than neutral oil, they are more prone to oxidation and to turning rancid.
-### The presence of FFA is what raises the pH, so that is what I can investigate. It can be as simple as that.
+##### The presence of FFA is what raises the pH, so that is what I can investigate. It can be as simple as that.
 ### **FFA Analysis**
-#### R-COOH + KOH → R-COO- + K+ + H2O
-#### So when there is HCl, the reaction becomes R-COOH + KOH
+#### https://onlinelibrary.wiley.com/doi/pdf/10.1016/0307-4412(92)90025-H
 ## **Apparatus and Chemicals**
 ### Ninhydrin solution
 ### Protease
