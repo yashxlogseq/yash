@@ -8,10 +8,8 @@ tags:
    :CUSTOM_ID: 5f302408-c235-4de7-b3f9-f689e2e687f9
    :END:
 ### [[Lipid Investigation]]
-   :PROPERTIES:
-   :CUSTOM_ID: 5f302e32-f255-45c0-834e-57545a3f9e16
-   :END:
-## **Research** for ((5f302408-c235-4de7-b3f9-f689e2e687f9))
+###
+## Research for [[Protein Investigation]]
 ### Apparatus and Chemicals
 #### Ninhydrin solution
 #### Protease
@@ -82,7 +80,7 @@ tags:
 ##### The reaction is conducted in a incubator at a temperature of 37ºC
 ### **DISCUSSION**
 #### Homoeopathic doctors ask for the supplementary intake of seaweed to supplement patients with iodine deficiency with iodine. I want to test the effect seaweed has on thyroxine in itself.
-## **Research** for ((5f302e32-f255-45c0-834e-57545a3f9e16))
+## **Research** for ((5f302e32-f255-45c0-834e-57545a3f9e16)[[]]
 ### Lipid cream + pH indicator
 ### Lipase + bile salts
 ### Results -> The pH changes due to presence of fatty acids. oil
@@ -90,7 +88,7 @@ tags:
 #### "FFA Analysis" is the key word.
 #### https://pubs.rsc.org/en/content/articlelanding/2014/ay/c4ay00344f#!divAbstract
 ##### Since FFA are less stable than neutral oil, they are more prone to oxidation and to turning rancid.
-### The presence of FFA is what raises the pH, so that is what I can investigate
+### The presence of FFA is what raises the pH, so that is what I can investigate. It can be as simple as that.
 ### CANCELED What is the significance of bile salts?
 ## **Apparatus and Chemicals**
 ### Ninhydrin solution
