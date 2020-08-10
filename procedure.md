@@ -88,12 +88,12 @@ tags:
 ### Apparatus + chemicals
 ### Create 1% pancreatin solution
 ### Create bile salts
-## Create litmus cream
-## Add 2ml of pancreatin
-## Add 2ml of litmus cream
-## Add 2ml of thyroxine
-## (Test) Add 2ml of varying concentrations of seaweed solution
-## (Control) Only pancreatin + water instead of pancreatin + litmus cream
+### Create litmus cream
+### Add 2ml of pancreatin
+### Add 2ml of litmus cream
+### Add 2ml of thyroxine
+### (Test) Add 2ml of varying concentrations of seaweed solution
+### (Control) Only pancreatin + water instead of pancreatin + litmus cream
 ## **Apparatus and Chemicals**
 ### Ninhydrin solution
 ### Protease
