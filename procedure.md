@@ -83,7 +83,8 @@ tags:
 ##### Since FFA are less stable than neutral oil, they are more prone to oxidation and to turning rancid.
 ### The presence of FFA is what raises the pH, so that is what I can investigate. It can be as simple as that.
 ### **FFA Analysis**
-####
+#### R-COOH + KOH → R-COO- + K+ + H2O
+#### So when there is HCl, the reaction becomes R-COOH + KOH
 ## **Apparatus and Chemicals**
 ### Ninhydrin solution
 ### Protease
