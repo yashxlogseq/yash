@@ -42,7 +42,6 @@ tags:
 #### “Instead of admitting the truth about how they feel, they react to their feelings and fail to think.
 #### They feel the fear so they go to work, hoping that money will soothe the fear, but it doesn’t. It continues to haunt them and they return to work, hoping again that money will calm their fears, and again it doesn’t. Fear keeps them in this trap of working, earning money, working, earning money, hoping the fear will go away. But every day they get up, and that old fear wakes up with them.”
 ### “The avoidance of money is just as psychotic as being attached to money.”
-### 
 ## Lesson 2: Why teach financial literacy?
 ## Lesson 3: Mind your own business
 ## Lesson 4: The history of taxes and the power of corperations
