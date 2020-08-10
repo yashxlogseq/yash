@@ -2,14 +2,7 @@
 title: Procedure
 tags:
 ---
-## Procedure
-### [[Protein Investigation]]
-   :PROPERTIES:
-   :CUSTOM_ID: 5f302408-c235-4de7-b3f9-f689e2e687f9
-   :END:
-### [[Lipid Investigation]]
-###
-## Research for [[Protein Investigation]]
+## **Research** for [[Protein Investigation]]
 ### Apparatus and Chemicals
 #### Ninhydrin solution
 #### Protease
@@ -80,7 +73,7 @@ tags:
 ##### The reaction is conducted in a incubator at a temperature of 37ºC
 ### **DISCUSSION**
 #### Homoeopathic doctors ask for the supplementary intake of seaweed to supplement patients with iodine deficiency with iodine. I want to test the effect seaweed has on thyroxine in itself.
-## **Research** for ((5f302e32-f255-45c0-834e-57545a3f9e16)[[]]
+## **Research** for [[Lipid Investigation]]
 ### Lipid cream + pH indicator
 ### Lipase + bile salts
 ### Results -> The pH changes due to presence of fatty acids. oil
