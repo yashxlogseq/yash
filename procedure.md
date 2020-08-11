@@ -73,18 +73,18 @@ tags:
 ##### The reaction is conducted in a incubator at a temperature of 37ºC
 ### **DISCUSSION**
 #### Homoeopathic doctors ask for the supplementary intake of seaweed to supplement patients with iodine deficiency with iodine. I want to test the effect seaweed has on thyroxine in itself.
-## Research for [[Lipid Investigation]]
-### [Source](https://pubs.rsc.org/en/content/articlelanding/2014/ay/c4ay00344f#!divAbstract)
-#### Since FFA are less stable than neutral oil, they are more prone to oxidation and to turning rancid.
-#### The presence of FFA is what raises the pH, so that is what I can investigate. It can be as simple as that.
-### **FFA Analysis**
-#### https://onlinelibrary.wiley.com/doi/pdf/10.1016/0307-4412(92)90025-H
 ## **Research** for [[Carbohydrate Investigation]]
 ### The idea is to plot a standard curve for the concentration of the various conentration of carbohydrates
 ### The reaction solution will contain $$x$$ amounts of glucose (stays constant) + thyroxine + lipase + seaweed
 #### In my opnion this procedure cannot be used for the analysis for porteins as there is no single amino acid that I am looking for. I am testing for amino acids in general.
 ### So, the procedure would involve adding various concentrations of glucose for a set of seaweed solution.
 ### This can go until a 10% glucose solution. That should be more than enough.
+## Research for [[Lipid Investigation]]
+### [Source](https://pubs.rsc.org/en/content/articlelanding/2014/ay/c4ay00344f#!divAbstract)
+#### Since FFA are less stable than neutral oil, they are more prone to oxidation and to turning rancid.
+#### The presence of FFA is what raises the pH, so that is what I can investigate. It can be as simple as that.
+### **FFA Analysis**
+#### https://onlinelibrary.wiley.com/doi/pdf/10.1016/0307-4412(92)90025-H
 ## **Apparatus and Chemicals**
 ### Ninhydrin solution
 ### Protease

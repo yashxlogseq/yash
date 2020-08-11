@@ -1,3 +1,20 @@
+## In general
+### 1l volumetric flask x2
+### Thyroxine
+### Seaweed
+###
+### Aluminium foil
+### Parafilm
+### Colorimeter
+### Spectrophotometer
+## Chemicals
+### 1M HCl
+### Pepsin
+### Ninhydrin solution
+### Ethanol
+## Apparatus
+### 1l volumetric flask x2
+### 100ml conical flask x7
 ## ^^Stock solution of thyroxine and seaweed must be made. ^^
 ## ***To measure the effect of iodine (sourced from Laminaria Digitata) on the effectiveness of levothyroxine-sodium on the rate of digestion of proteins (sourced from albumin) using ninhydrin colourimetry:***
 ## ^^The chemicals used are ninhydrin solution, endopeptidase (pepsin), 1 molar hydrochloric acid (HCl) and albumin. The apparatus used involve conical flask (×), graduated cylinder (×), x ml beaker(s) (×), pipettes, temperature bath (water bath), thermometer, stirring rods (glass rods), balance and spectrophotometer.^^
