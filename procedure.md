@@ -79,6 +79,10 @@ tags:
 ##### The presence of FFA is what raises the pH, so that is what I can investigate. It can be as simple as that.
 ### **FFA Analysis**
 #### https://onlinelibrary.wiley.com/doi/pdf/10.1016/0307-4412(92)90025-H
+## **Research** for [[Carbohydrate Investigation]]
+### The idea is to plot a standard curve for the concentration of the various conentration of carbohydrates
+### The reaction solution will contain $$x$$ amounts of glucose (stays constant) + thyroxine + lipase + seaweed
+#### In my
 ## **Apparatus and Chemicals**
 ### Ninhydrin solution
 ### Protease
