@@ -72,7 +72,7 @@ tags:
 ##### Enzymes are temperature sensitive, which enhances its performance
 ##### The reaction is conducted in a incubator at a temperature of 37ºC
 ### **DISCUSSION**
-#### Homoeopathic doctors ask for the supplementary intake of seaweed to supplement patients with iodine deficiency with iodine. I want to test the effect seaweed has on thyroxine in itself.This investigation is done with the aid of a standard curve. To prepare the standard curve, a 1% glucose solution is created. 0.2g of glucose is measured on a butter paper using a balance. Glucose is added to a test-tube containing 10ml distilled water (measured from a measuring cylinder). Similarly a 0%, 2%, 3%, 4%, 5% glucose solution is created.
+#### Homoeopathic doctors ask for the supplementary intake of seaweed to supplement patients with iodine deficiency with iodine. I want to test the effect seaweed has on thyroxine in itself.
 ## Research for [[Lipid Investigation]]
 ### [Source](https://pubs.rsc.org/en/content/articlelanding/2014/ay/c4ay00344f#!divAbstract)
 #### Since FFA are less stable than neutral oil, they are more prone to oxidation and to turning rancid.
