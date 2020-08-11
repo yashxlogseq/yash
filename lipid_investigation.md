@@ -1,3 +1,0 @@
-##This investigation is done with the aid of a standard curve. To prepare the standard curve, a 1% glucose solution is created. 0.2g of glucose is measured on a butter paper using a balance. Glucose is added to a test-tube containing 10ml distilled water (measured from a measuring cylinder). Similarly a 0%, 2%, 3%, 4%, 5% glucose solution is created.
-## From the stock solution, 3ml of thyroxine-sodium was added, 3ml of 5% seaweed solution, and ^^set concentration^^ of amylase solution (stock solution) was added to ^^3ml of glucose solution^^. The solution was then checked for its absorbance in a spectrophotometer.
-##
