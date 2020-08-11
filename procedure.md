@@ -82,7 +82,9 @@ tags:
 ## **Research** for [[Carbohydrate Investigation]]
 ### The idea is to plot a standard curve for the concentration of the various conentration of carbohydrates
 ### The reaction solution will contain $$x$$ amounts of glucose (stays constant) + thyroxine + lipase + seaweed
-#### In my
+#### In my opnion this procedure cannot be used for the analysis for porteins as there is no single amino acid that I am looking for. I am testing for amino acids in general.
+### So, the procedure would involve adding various concentrations of glucose for a set of seaweed solution.
+### This can go until a 10% glucose solution. That should be more than enough.
 ## **Apparatus and Chemicals**
 ### Ninhydrin solution
 ### Protease
