@@ -24,3 +24,27 @@ tags:
 ## The timeline of the two novels/novela's:
 ### Memory is significantly important. In the case of Offred, memory is important because it takes her back to the life where she was normal, rational and optimistic individual. She was what she wanted to be, but after being kidnapped and being pit up as a handmaid in Gilead, what has eroded is her individuality and her aspiration to be in Gilead. From a person, she almost becomes a non-person (down to one biological entity). Thus memory here is crucial and maintains her sanity. Memory for Offred is something that she can pleasantly look back into, however, the narrative perspective is not set in the past.
 ### In the case of [[WAPZ]], the entire story is narrated as a flashback. The analeptic pattern is stronger, because the prisoner keeps looking into her childhood from a prison cell. It is the, retrospective vision. The voice is that of an adult trying to come to terms with what had happened to her as a child as she was growing up. The curious growing up of her mother, the oppressive father, and the sexually abusive uncle and a somewhat caring teacher. In this case, memory is much more stronger as a narrative tool/device in WAPZ.
+### For Offred, the past represents something Offred wants to go to. A happy family, a husband, a child. Does Firduas ever want to go back to her past, NO. Nowhere.
+## **The main themes**
+### Gender roles
+### Relegion
+### Theocracy
+### Fertility
+### Rebelion
+### Love
+### Story telling and memomory
+### Feminist dystopia
+### Christian Colitian of America and New England puritian regieme
+### Government of Ronald Reagan with reference to the Christian Colitian of America
+### Subjoure of speculative fiction (imaginative literature)
+### Some concepts of sci-fi, limited though.
+#### The comparison can be compared to [[BOOK - 1984]]
+## In a relegious ceromany, in presence of the commanders wife, the handmaid is placed on her knee's, and the commander can simply come and "rape" the handmaid.
+## The protagonist, [[Offred]], is not her real name, she is **of** [[Fred]] (the commander).
+## **Main themes**
+### Gender roles
+### Gender politics
+### Memory and stroy-telling
+### Rebellion
+#### [[Offred]] is passive in her rebellion, then taking her things into her own hands like [[Firdaus]].
+### Love or the abscene of love
