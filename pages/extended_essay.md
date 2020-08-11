@@ -22,7 +22,7 @@ tags:
 ### DONE Method to quantify ((5f3007ee-1b9a-4fc6-b0a8-dfc6eff081dc)) metabolism
 ### DONE MPV - A for procedure in GDocs
 ## This procedure can be repeated for lipid metabolism and carbohydrate metabolism. I am not too sure about that though.
-## [[TODO]]
+## [[DONE]]
 ## **PROTEIN**
 ### https://www.nature.com/articles/0801292.pdf
 ### The effect of thyroid hormones on protein metabolism is characterized by a profound stimulatory effect on the synthesis of numerous cytosolic and mitochondrial proteins as well as of secretory proteins such as albumin and hormones.
