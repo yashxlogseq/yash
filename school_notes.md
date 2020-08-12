@@ -18,9 +18,10 @@ tags:
 ### The word comes from puritan, and these are the people who are (Christians) who are followers of stoic. Pure simple people. Like the old women Tejas Jiju showed us.
 ### Eg: New England Puritan Regime
 ## Because men are at the apex of the power triangle to procreate with the handmaid. He is at the top of the social, political and procreative sense. The women always come under the theocratically sanctioned men of awesomeness.
-## The character of [[Offred]] → **Of**fred someone. Handmaids do not actually have any name
-## The narrative voice is not of [[June]], and it is Offred instead. There is a watershed in their lives from what she was before, and what she is after the war.
-## In the case of [[Firdaus]], there is no watershed. However, there is systematic development into her current personality. Both of the voices are voices of descent and are against the society they inhabit. Firdaus is much more volatile in her actions, whereas Offred, though a victim has difficulty making her mind and is this more acted upon, rather than acting herself. In both the cases, the storyteller is a victim of society.
+## The protagonist, [[Offred]], is not her real name, she is **of** [[Fred]] (the commander).
+## Narrative voice + development in character
+### The narrative voice is not of [[June]], and it is Offred instead. There is a watershed in their lives from what she was before, and what she is after the war.
+### In the case of [[Firdaus]], there is no watershed. However, there is systematic development into her current personality. Both of the voices are voices of descent and are against the society they inhabit. Firdaus is much more volatile in her actions, whereas Offred, though a victim has difficulty making her mind and is this more acted upon, rather than acting herself. In both the cases, the storyteller is a victim of society.
 ## The timeline of the two novels/novela's:
 ### Memory is significantly important. In the case of Offred, memory is important because it takes her back to the life where she was normal, rational and optimistic individual. She was what she wanted to be, but after being kidnapped and being pit up as a handmaid in Gilead, what has eroded is her individuality and her aspiration to be in Gilead. From a person, she almost becomes a non-person (down to one biological entity). Thus memory here is crucial and maintains her sanity. Memory for Offred is something that she can pleasantly look back into, however, the narrative perspective is not set in the past.
 ### In the case of [[WAPZ]], the entire story is narrated as a flashback. The analeptic pattern is stronger, because the prisoner keeps looking into her childhood from a prison cell. It is the, retrospective vision. The voice is that of an adult trying to come to terms with what had happened to her as a child as she was growing up. The curious growing up of her mother, the oppressive father, and the sexually abusive uncle and a somewhat caring teacher. In this case, memory is much more stronger as a narrative tool/device in WAPZ.
@@ -39,8 +40,6 @@ tags:
 ### Subjoure of speculative fiction (imaginative literature)
 ### Some concepts of sci-fi, limited though.
 #### The comparison can be compared to [[BOOK - 1984]]
-## In a relegious ceromany, in presence of the commanders wife, the handmaid is placed on her knee's, and the commander can simply come and "rape" the handmaid.
-## The protagonist, [[Offred]], is not her real name, she is **of** [[Fred]] (the commander).
 ## **Main themes**
 ### Gender roles
 ### Gender politics
@@ -48,3 +47,4 @@ tags:
 ### Rebellion
 #### [[Offred]] is passive in her rebellion, then taking her things into her own hands like [[Firdaus]].
 ### Love or the abscene of love
+## In a relegious ceromany, in presence of the commanders wife, the handmaid is placed on her knee's, and the commander can simply come and "rape" the handmaid.

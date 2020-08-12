@@ -58,8 +58,6 @@ procedure can be repeated for lipid metabolism and carbohydrate metabolism. I am
 ### test-tubes 36
 ### cuvettes 30
 ### 100ml beaker 5 (per trial)
-## Hypothesis: A general increasing trend in the spectrophotometer and colourimeter readings, signifying an increase in glucose and amino acid concentrations. The presence of thyroxine would decrease increase the time taken for digestion of starch and albumin by insignificant time margins. This trend would continue for low seaweed concentrations, but increased iodine concentrations would increase the rate of formation of glucose and amino acids.
-## Control Variables: For these procedures, the concentration of albumin, pepsin, starch and amylase are kept constant to test the effect of iodine (sourced from L. digitata) and thyroxine in isolation. This is done by creating bulk solutions (stock solutions) of albumin, pepsin, starch and amylase. Additional activators (molecules that bind to enzymes and increase their activity) are not added, as that would not allow us to test the effect of iodine in isolation, resulting in an error. Further, the pH and temperature of the solution are kept constant as the enzyme are pH and temperature-sensitive. The pH is kept low using 1 molar HCl for protein digestion, while no additional pH buffer or acid/base is added during the testing of carbohydrate digestion. The temperature is kept constant using an incubator set at 37ºC.
 ]]
 :
 mething that I am drawn to, lol.
