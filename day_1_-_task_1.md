@@ -13,6 +13,7 @@ tags:
 #### Correlation- 10 Points
 #### Justification of claims - 10 Points
 ### [Sample Template](https://tinyurl.com/Research-STEM-Task-1)
+## https://www.simplilearn.com/data-science-vs-big-data-vs-data-analytics-article
 ### By the year 2020, about 1.7 megabytes of new information will be created every second for every human being on the planet
 ### What is [[Big Data]]? -> Data capturing, storage, sharing, querying
 ### [[Big Data]] refers to humongous volumes of data that cannot be processed effectively with the traditional applications that exist. This can be done by the help of [[Technology]]
@@ -46,5 +47,11 @@ tags:
 ### Also, a knowledge base can help scientists to improve strategies of applied research.
 ### Science provides knowledge which is a direct source for new technological possibilities. Without scientific knowledge, there is no application of the information gained through scientific methods. Science also gives us a knowledge base that becomes important in the assessment of technology and their social and environmental impact. Also, a knowledge base can help scientists to improve strategies of **applied research**.
 ## The clear complete overlap between science and technology can be seen in the [[microchip]] example from Triggered Insaan's YouTube channel (story time)
-## There is clearly a **'pipeline model'** when it comes to the innovation process of new tech.
-## Science -> applied research
+## It is not possible to put every aspect of this topic in the one venn diagram. It needs to be done in various diagram
+## https://www.belfercenter.org/sites/default/files/legacy/files/sciencetechnology.pdf
+### There is clearly a **'pipeline model'** when it comes to the innovation process of new tech.
+### Science -> applied research -> design -> manufacturing -> commercialisation and marketing
+### ^^The confusion between engineering (originating from technology) and science^^
+### Indeed the relationships between science and technology are very complex, though interactive, and are often different in different fields and at different phases of a technological ‘life cycle’.
+### **It is important here to note that technoiogy is not just things, but also embodies a degree of generic understanding, which makes it seem more like science, and yet it is understanding that relates to a specific artifact, which distinguishes it from normal scientific understanding.**
+### A more common example of a direct genetic relationship between science and technology occurs when the exploration of a new field of science is deliberately undertaken with a general anticipation that it has a high likelihood of leading to useful applications, though there is no specific end-product in mind. The work at Bell Telephone Laboratories and elsewhere which led eventually to the invention of the transistor is one of the clearest examples of this. The group that was set up at Bell Labs to explore the physics of Group IV semiconductors such as germanium was clearly motivated by the hope of finding a method of making a solid state amplifier to substitute for the use of vacuum tubes in repeaters for the transmission of telephone signals over long distances.
