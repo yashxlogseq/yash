@@ -13,3 +13,7 @@ tags:
 #### Correlation- 10 Points
 #### Justification of claims - 10 Points
 ### [Sample Template](https://tinyurl.com/Research-STEM-Task-1)
+## https://www.simplilearn.com/data-science-vs-big-data-vs-data-analytics-article
+### By the year 2020, about 1.7 megabytes of new information will be created every second for every human being on the planet
+### What is **Big Data**? -> Data capturing, storage, sharing, querying
+###
