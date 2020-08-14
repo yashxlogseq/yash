@@ -48,7 +48,7 @@ tags:
 ### Science provides knowledge which is a direct source for new technological possibilities. Without scientific knowledge, there is no application of the information gained through scientific methods. Science also gives us a knowledge base that becomes important in the assessment of technology and their social and environmental impact. Also, a knowledge base can help scientists to improve strategies of **applied research**.
 ## The clear complete overlap between science and technology can be seen in the [[microchip]] example from Triggered Insaan's YouTube channel (story time)
 ## It is not possible to put every aspect of this topic in the one venn diagram. It needs to be done in various diagram
-## https://www.belfercenter.org/sites/default/files/legacy/files/sciencetechnology.pdf [[Technology and science: An analysis]]
+## [Source](https://www.belfercenter.org/sites/default/files/legacy/files/sciencetechnology.pdf) [[Technology and science: An analysis]]
 ### There is clearly a **'pipeline model'** when it comes to the innovation process of new tech.
 ### Science -> applied research -> design -> manufacturing -> commercialisation and marketing
 ### ^^The confusion between engineering (originating from technology) and science^^
