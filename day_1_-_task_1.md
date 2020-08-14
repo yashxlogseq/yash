@@ -43,3 +43,9 @@ tags:
 ### Science is the study of the natural world by collecting data through a systematic process called the scientific method. And technology is where we apply science to create devices that can solve problems and do tasks. Technology is literally the application of science. So, it really is impossible to separate the two
 ## https://www.gildshire.com/how-are-technology-and-science-related/
 ### All technology instruments, from medical scanners to smartphones are connected and related to science. Without science, all technological gadgets would not even exist. Science offers the knowledge needed for creating, developing and improving any technological device.
+### The main connection between [[Science]] and [[Technology]] is that technology is the application of science. I can draw a venn diagram that shows them in one another. Technology is completely submerged into science
+### Also, a knowledge base can help scientists to improve strategies of applied research.
+### Science provides knowledge which is a direct source for new technological possibilities. Without scientific knowledge, there is no application of the information gained through scientific methods. Science also gives us a knowledge base that becomes important in the assessment of technology and their social and environmental impact. Also, a knowledge base can help scientists to improve strategies of **applied research**.
+##
+## There is clearly a **'pipeline model'** when it comes to the innovation process of new tech.
+##
