@@ -4,7 +4,7 @@ tags:
 ---
 ## Summary
 ### - Your task for the day: **40 Points**
-### We often think Science, Technology and Big Data are all to the core very interlinked. While they do share similarities, they also have their distinctions. Your first task is to research the 3 industries and create a Venn Diagram of the 3 sectors. Along with it - also write justifications and details of the confluences of the sectors.
+### We often think [[Science]], [[Technology]] and [[Big Data]] are all to the core very interlinked. While they do share similarities, they also have their distinctions. Your first task is to research the 3 industries and create a Venn Diagram of the 3 sectors. Along with it - also write justifications and details of the confluences of the sectors.
 #### Tip: You can put numbers in the Venn Diagram and then refer to the numbers below in the document and expand on your claims.
 #### Eg - Technology and Data - AI, ML, Data Science, Technology and Science - Scientific Simulations of Reactions etc.
 ### Key Metrics of Performance:
@@ -15,5 +15,5 @@ tags:
 ### [Sample Template](https://tinyurl.com/Research-STEM-Task-1)
 ## https://www.simplilearn.com/data-science-vs-big-data-vs-data-analytics-article
 ### By the year 2020, about 1.7 megabytes of new information will be created every second for every human being on the planet
-### What is **Big Data**? -> Data capturing, storage, sharing, querying
-###
+### What is [[Big Data]]? -> Data capturing, storage, sharing, querying
+### Big Data refers to humongous volumes of data that cannot be processed effectively with the traditional applications that exist.
