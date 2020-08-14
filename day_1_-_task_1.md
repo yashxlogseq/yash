@@ -2,6 +2,7 @@
 title: Day 1 - Task 1
 tags:
 ---
+## [[Day 1 - Task 1: Submission]]
 ## Summary
 ### - Your task for the day: **40 Points**
 ### We often think [[Science]], [[Technology]] and [[Big Data]] are all to the core very interlinked. While they do share similarities, they also have their distinctions. Your first task is to research the 3 industries and create a Venn Diagram of the 3 sectors. Along with it - also write justifications and details of the confluences of the sectors.
