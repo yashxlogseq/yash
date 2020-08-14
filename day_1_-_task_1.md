@@ -19,14 +19,24 @@ tags:
 ### [[Big Data]] refers to humongous volumes of data that cannot be processed effectively with the traditional applications that exist. This can be done by the help of [[Technology]]
 ### The definition of [[Big Data]], given by Gartner, is, “Big data is high-volume, and high-velocity or high-variety information assets that demand cost-effective, innovative forms of information processing that enable enhanced insight, decision making, and process automation.”
 ### Applications
-### 1. Financial services
-#### The common problem among them all is the massive amounts of multi-structured data living in multiple disparate systems, which can be solved by big data. Thus big data is used in several ways like:
-###### Customer analytics
-###### Compliance analytics
-###### Fraud analytics
-###### Operational analytics
-### 2. Communications
-#### ability to combine and analyze the masses of customer-generated data and machine-generated data that is being created every day.
-### 3. For retail
-#### This requires the ability to analyze all the disparate data sources that companies deal with every day, including the weblogs, customer transaction data, social media, store-branded credit card data, and loyalty program data.
+#### 1. Financial services
+##### The common problem among them all is the massive amounts of multi-structured data living in multiple disparate systems, which can be solved by big data. Thus big data is used in several ways like:
+####### Customer analytics
+####### Compliance analytics
+####### Fraud analytics
+####### Operational analytics
+#### 2. Communications
+##### ability to combine and analyze the masses of customer-generated data and machine-generated data that is being created every day.
+#### 3. For retail
+##### This requires the ability to analyze all the disparate data sources that companies deal with every day, including the weblogs, customer transaction data, social media, store-branded credit card data, and loyalty program data.
+### Requirments
+#### Analytical skills
+#### Creativity
+#### Maths and statistics
+#### Computer science -> [[Technology]]
+#### Business skills
+### Summary
+#### [[https://cdn.logseq.com/%2F86e6e2fb-2f01-4c97-9a06-ba3736c40a2a2020_08_14_Screenshot%202020-08-14%20at%2012.16.43%20PM.png?Expires=4750978637&Signature=cXszFxlZKub0PiSzqb756ijRwIwVQfzYbSuEuHOFGzRyrPTGl3dIr9BbGR0cNdz-PUAUeLyI7dsnK2c2eIosXRmeVfdyNDYeDfnAd6zd98X5eTK9vipC2s9MTap8cGJsbsy-V~6AAANwbjSJ8ZMFLLEwKPW2FT3MkOEOEQ9htyyVtkdCCu6i5tH-alvei9-zvQPh5VzeeIxzNEqxCxJWzTUR39EvWV-nIpGsVEkPrmuH6oqdgTn4LqkbzLBtWsauye~~T2QAl9-vVup3gPb3u297gG-WZD9~abvn9aH5cTLZaZwtJVdG3HC2ZKV87grSH7E-d35TKLX9g~IlDdul7g__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_14_Screenshot 2020-08-14 at 12.16.43 PM.png]]
+#### [[https://cdn.logseq.com/%2F86e6e2fb-2f01-4c97-9a06-ba3736c40a2a2020_08_14_Screenshot%202020-08-14%20at%2012.16.48%20PM.png?Expires=4750978649&Signature=j6R105MUiVHkDt2JTgy3r~~1t-zMSIhN92Kx3C~ftk-HBFD6yNmFmdqs6A2NqdDqtYaFhGhKdwyyGOtsM~zTzvkfVgWXMe9JabIib8xHpfB1WaxWOOy2siPxx2Ujf4qs-u8o4yTam1ZamZKghzz37O-NnbePmNr4HLBxMl7Ssd-8oie1eHIXJeWk5ab9-WchZuIpjRl5AuWYFpXjQ3wF908vQlbIKnV4-kOkZ1uZbAvM4eXGCpVs~xTINigbTLo0z~JNqamdc4RcKxGuH5H-YjqkTcbi6wNgtcQHxTVt-YdkGE6q9GRxehVXXNDwuIUUCk2ALYz6F3HxMyt58y67Sw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_14_Screenshot 2020-08-14 at 12.16.48 PM.png]]
+#### [[https://cdn.logseq.com/%2F86e6e2fb-2f01-4c97-9a06-ba3736c40a2a2020_08_14_Screenshot%202020-08-14%20at%2012.16.57%20PM.png?Expires=4750978662&Signature=lFNvJvGyIUxXTVngJ6IqZZdGebESsxrg7rwJerAF5x2p8aSUYADPSrUROL9c3Jo9cgKiQMfRiHaN3b~XkIARcIUssIzpRHqKwnRJ4cIqotLB1o8vQRmN7M6~1GAQTpFFa663Rb2VFztrUijLn0DngkWOfJ9-uxagoh9c5SoOzuQDP03wiYxWzWNIRFFHS17T14rJ~5Mh~9EeztOqpxN7LlkD69M430m7H029XY7NVR7DF2iMgl3pXqruaibouhVEebINVEx~cPGLTnQPMPMMVoRBdFrvHx7ggMmGOKuR-E4lQgZ7MDk8ZLQHFP3~y5FvrkS2b37ZYykXqDowNXtatA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_14_Screenshot 2020-08-14 at 12.16.57 PM.png]]
 ##
