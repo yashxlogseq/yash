@@ -13,7 +13,6 @@ tags:
 #### Correlation- 10 Points
 #### Justification of claims - 10 Points
 ### [Sample Template](https://tinyurl.com/Research-STEM-Task-1)
-## https://www.simplilearn.com/data-science-vs-big-data-vs-data-analytics-article
 ### By the year 2020, about 1.7 megabytes of new information will be created every second for every human being on the planet
 ### What is [[Big Data]]? -> Data capturing, storage, sharing, querying
 ### [[Big Data]] refers to humongous volumes of data that cannot be processed effectively with the traditional applications that exist. This can be done by the help of [[Technology]]
@@ -46,6 +45,6 @@ tags:
 ### The main connection between [[Science]] and [[Technology]] is that technology is the application of science. I can draw a venn diagram that shows them in one another. Technology is completely submerged into science
 ### Also, a knowledge base can help scientists to improve strategies of applied research.
 ### Science provides knowledge which is a direct source for new technological possibilities. Without scientific knowledge, there is no application of the information gained through scientific methods. Science also gives us a knowledge base that becomes important in the assessment of technology and their social and environmental impact. Also, a knowledge base can help scientists to improve strategies of **applied research**.
-##
+## The clear complete overlap between science and technology can be seen in the [[microchip]] example from Triggered Insaan's YouTube channel (story time)
 ## There is clearly a **'pipeline model'** when it comes to the innovation process of new tech.
-##
+## Science -> applied research
