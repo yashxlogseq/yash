@@ -32,7 +32,10 @@ ce
 ### Business Intelligence - Use of NLG, E-Commerce
 ### Recommended Structure:
 ### Introduction
-### Challenges, Tackles, Psychology behind Product / Tech Development
+### 
+### Submission Method: Upload PDF/WordDoc on GDrive Folder.
+## [NDR Medical Technologies]
+pment
 ### Current Applications
 ### Solution
 ### Development Timeline
