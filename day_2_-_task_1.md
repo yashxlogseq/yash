@@ -34,7 +34,7 @@ ce
 ### Introduction
 ### 
 ### Submission Method: Upload PDF/WordDoc on GDrive Folder.
-## [NDR Medical Technologies]
+## [NDR Medical Technologies](https://ndrmedical.com/beta/) They have such a good website. It is so informative and so simple. I love it. This is the standard [[CrashBoards International]] must follow
 pment
 ### Current Applications
 ### Solution
