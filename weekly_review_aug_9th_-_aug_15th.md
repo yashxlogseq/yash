@@ -11,4 +11,5 @@ tags:
 ### [[Aug 13th, 2020]]
 ### [[Aug 14th, 2020]]
 ### [[Aug 15th, 2020]]
-## This
+## This week has dates that were pretty interesting. It started with the Singapore Independence and then ended with the Indian Independence day.
+##
