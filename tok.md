@@ -18,3 +18,11 @@
 #### Mica example -> Celeb's adore on the red carpet
 ##### Miniral
 ##### Mined in UK, using mostly child labour as there is a lack of education + a lack of finances
+#### Suppliers
+##### Reduce transperency
+#### The key steps to reduce child labour
+##### rigorous checks of the supply chain of mica
+##### producing their own mica, i.e, synthetic mica
+#### The second one adhere'a to corporate social responsibility and the categorical imperative
+##### The categorical imperative states that every action you take should be rigorously assessed in terms of its moral acceptability.
+###
