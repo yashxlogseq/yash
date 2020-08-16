@@ -25,7 +25,7 @@
 ##### producing their own mica, i.e, synthetic mica
 #### The second one adhere'a to corporate social responsibility and the categorical imperative
 ##### The categorical imperative states that every action you take should be rigorously assessed in terms of its moral acceptability.
-### Profit earnings by a firm are not correlated with them being ethical (and hence) ethics plays a huge part in the income source or sources of any firm.
+### Profit earnings by a firm are not correlated with them being ethical
 ### Profit may be a key motive for any firm, but in this day and age, it is certainly not the only key motive and priority. A firm may choose not to exhibit csr, which is absolutely fine as long as they remain in the legal boundaries of the country they operate in.
 ### Final example of #CSR
 #### ‘body shop’, which has garnered a reputation of being animal cruelty-free from day 1.
