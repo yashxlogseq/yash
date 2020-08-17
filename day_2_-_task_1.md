@@ -125,6 +125,7 @@ ce
 ##### _ANT - X_
 ###### ANT-X automates the alignment using real-time fluoroscopic images.
 ###### Chose entry point -> precise trajectory. The path of the needle is stabilised in multiple planes to ensure path of the needle stays aligned to the target
+###### The surgery assisted robotic device stabilises and holds the needle firmly at the planned insertion point, awaiting for the insertion of needle by surgeons.
 ##### _ANT - C_
 ###### Basically the same thing using in-situ CT images with AI.
 ###### The special use of AI
@@ -139,6 +140,7 @@ ce
 ### **Future prospect**
 #### From ((5f398a1d-f257-44d9-bbe9-674cdce62bba)) and ((5f398a60-1aa1-4d21-a67a-c37aac287d3a))
 ##### Kidney stones -> a hollow needle needed to puncture skin
+##### The advent of ANT X introduces image registration to real-time positioning combined with the precision adjustment and guiding technology. The integration of ANT software and robot, harnessed with the skill and dexterity of the surgeons’ experience will manage the needle alignment and insertion process with significantly greater precision.
 pment
 ### Current Applications
 ### Solution
