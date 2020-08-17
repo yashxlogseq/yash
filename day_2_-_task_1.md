@@ -126,6 +126,7 @@ ce
 ###### ANT-X automates the alignment using real-time fluoroscopic images.
 ###### Chose entry point -> precise trajectory. The path of the needle is stabilised in multiple planes to ensure path of the needle stays aligned to the target
 ###### The surgery assisted robotic device stabilises and holds the needle firmly at the planned insertion point, awaiting for the insertion of needle by surgeons.
+###### ANT X creates the potential for surgery to be operator independent, ensuring consistent surgical outcomes regardless of surgeon’s experience.
 ##### _ANT - C_
 ###### Basically the same thing using in-situ CT images with AI.
 ###### The special use of AI
