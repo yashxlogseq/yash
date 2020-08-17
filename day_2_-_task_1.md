@@ -95,7 +95,7 @@ ce
 #### _What is this?_
 ##### Firms that makes ANT
 #### _What does this do in short?_
-##### As the name suggests, ANT (automated needle targeting)
+##### As the name suggests, ANT (automated needle targeting) to remove + rupturing malignant cells.
 #### _What does this aim to do?_
 ##### Description
 ###### Integrated robotics system with image analysis
@@ -138,7 +138,7 @@ ce
 #### From ((5f39892d-d1a5-4e86-8253-443465707625))
 ### **Future prospect**
 #### From ((5f398a1d-f257-44d9-bbe9-674cdce62bba)) and ((5f398a60-1aa1-4d21-a67a-c37aac287d3a))
-####
+##### Kidney stones -> a hollow needle needed to puncture skin
 pment
 ### Current Applications
 ### Solution
