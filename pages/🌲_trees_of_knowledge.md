@@ -1,7 +1,3 @@
----
-title: 🌲 Trees of Knowledge
-tags:
----
-
 ## [[Medicine]]
 ### [[multimorbity]]
+### [[iatrogenic injury]]
