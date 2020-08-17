@@ -90,12 +90,13 @@ ce
 #### Where did I first hear of it?
 ##### APACMed 2019
 ##### Booth
-###### Had a virtual representation of [[ANT]]
+###### Had a virtual representation of [[ANT]]. Dive deep into how it works and how it can be beneficial
 ##### Won the MedTech Innovator 1st Price
 #### What is this?
 ##### Firms that makes ANT
 #### What does this do in short?
 ##### As the name suggests, ANT (automated needle targeting)
+#### What does this aim to do?
 ### Tackles/psycology
 #### Stats on human error
 ### Current applications & solution
