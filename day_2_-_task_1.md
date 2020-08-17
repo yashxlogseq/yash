@@ -88,7 +88,7 @@ ce
 ## Structure
 ### **Introduction**
 #### _Where did I first hear of it?_
-##### APACMed 2019
+##### APACMed 2019. Advancing shit in precision medicine and improving the patient experience
 ##### Booth
 ###### Had a virtual representation of [[ANT]]. Dive deep into how it works and how it can be beneficial
 ##### Won the MedTech Innovator 1st Price
@@ -118,7 +118,8 @@ ce
 ##### Adverse drug events occurred in 1.7% of admissions.
 ##### Observers on the general surgical units of a Chicago teaching hospital who recorded all “situations in which an inappropriate decision was made when, at the time, an appropriate alternative could have been chosen” found that 45.8% of patients had an adverse event. Eighteen percent of these patients had a serious adverse event—that is, one that produced at least temporary disability.
 ##### **THIS IS IMPORTANT ->** [[iatrogenic injury]] accounted for 5% to 36% of admissions to medical services and between 11% and 13% of adult admissions to intensive care units at several university hospitals.
-#####
+##### In Harvard and the Australian studies, about half of the adverse events occurring among inpatients resulted from surgery
+##### 45% (of doctors) reported making at least 1 error, 31% of which resulted in a patient's death
 #### _Stats on human error_
 ### **Current applications & solution**
 #### _The two products_
