@@ -1,0 +1,1 @@
+## The background - Article IX, section 1 of Hamilton's draft constitution provided: "No person shall be eligible to the office of President of the United States unless he be now a Citizen of one of the States, or hereafter be born a Citizen of the United States."
