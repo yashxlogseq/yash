@@ -96,9 +96,14 @@ ce
 ##### Firms that makes ANT
 #### _What does this do in short?_
 ##### As the name suggests, ANT (automated needle targeting)
-##### Description
-###### Integrated robotics systems
 #### _What does this aim to do?_
+##### Description
+###### Integrated robotics system with image analysis
+###### Costs-effective, simple usage, faster and more accurate
+###### Non-invasive and lower risk classification
+###### Smart device with short learning curve
+###### Costs effective, simple usage, faster and more accurate
+###### Create measurable outcome and increase the competency of the junior doctor
 ### **Tackles/psycology**
 #### _Stats on human error_
 ### **Current applications & solution**
