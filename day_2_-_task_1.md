@@ -113,7 +113,7 @@ ce
 ##### Schiff and colleagues (2005) divide the diagnostic process into seven stages: (1) access and presentation, (2) history taking/collection, (3) the physical exam, (4) testing, (5) assessment, (6) referral, and (7) follow-up.
 #### https://patientsafe.files.wordpress.com/2015/12/errors-in-medicine-a-human-factors-perspective.pdf
 ##### “Human factors” can be defined as the study of the interrelationships between humans, the tools we use and the environment in which we live and work. It focuses on the cognitive and physical abilities of people as they interact with technology.
-#### IMPORTANT -> **https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1070928/**
+#### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1070928/
 ##### In the United States, medical error results in 44,000 to 98,000 unnecessary deaths each year and 1 million excess injuries
 ##### Adverse drug events occurred in 1.7% of admissions.
 ##### Observers on the general surgical units of a Chicago teaching hospital who recorded all “situations in which an inappropriate decision was made when, at the time, an appropriate alternative could have been chosen” found that 45.8% of patients had an adverse event. Eighteen percent of these patients had a serious adverse event—that is, one that produced at least temporary disability.
