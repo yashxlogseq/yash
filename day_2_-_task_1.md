@@ -122,11 +122,18 @@ ce
 ###### In Harvard and the Australian studies, about half of the adverse events occurring among inpatients resulted from surgery
 ###### 45% (of doctors) reported making at least 1 error, 31% of which resulted in a patient's death
 ### **Current applications & solution**
-#### _The two products_
 ##### _ANT - X_
 ###### ANT-X automates the alignment using real-time fluoroscopic images.
-###### Chose entry point -> precise trajectory
+###### Chose entry point -> precise trajectory. The path of the needle is stabilised in multiple planes to ensure path of the needle stays aligned to the target
 ##### _ANT - C_
+###### Basically the same thing using in-situ CT images with AI.
+###### The special use of AI
+####### Mapping of blood vessels
+####### Mapping of surrounding organs
+####### Enables unintentional perforations
+###### A 3D space is mapped
+####### ↓ variability during surgery
+####### Surgeon concentration maintained
 ### **Development timeline**
 #### From ((5f39892d-d1a5-4e86-8253-443465707625))
 ### **Future prospect**
