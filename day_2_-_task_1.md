@@ -124,7 +124,8 @@ ce
 ### **Current applications & solution**
 #### _The two products_
 ##### _ANT - X_
-######
+###### ANT-X automates the alignment using real-time fluoroscopic images.
+###### Chose entry point -> precise trajectory
 ##### _ANT - C_
 ### **Development timeline**
 #### From ((5f39892d-d1a5-4e86-8253-443465707625))
