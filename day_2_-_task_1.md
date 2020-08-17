@@ -75,10 +75,11 @@ ce
 ##### With ANT’s technology, target identification and feature mapping using AI for access trajectory planning is now possible. Complex target navigation with existing imaging modalities using computer vision and image analysis for data integration is conducted to optimise surgery in order to reduce complications. The robot’s position is then calibrated using reference markers and the angle of insertion is automatically set and stabilized to prevent unintentional skewed movements of needle. Effective targeted precision and reduced surgical complications is achieved. In addition, the smart system is accompanied with a simple user friendly interface adapted to current processes for surgeons. Consistency in biopsy and ablation results can be attained even with less experienced surgeons. Furthermore, with ANT’s minute deviation in accuracy, it allows for targeting of small lung nodules during early stages of lung cancer. This directly correlates to possibly earlier detection and hence enabling detection and hence enabling patients to receive cancer treatments in early stages with better clinical outcomes. ANT C is currently undergoing animal trial for lung biopsy surgery.
 ### Designed especially for different image modalities to revolutionise precision without compromising speed and safety
 ### **AWARDS**
-####
+#### List of awards from website [[https://cdn.logseq.com/%2F86e6e2fb-2f01-4c97-9a06-ba3736c40a2a2020_08_17_Screenshot%202020-08-17%20at%2010.48.35%20AM.png?Expires=4751247046&Signature=ig~AFYGTF4nzltt5a0DKXnUwNugbDR5JXHOL~-ElBYfhubW3uHsxyzqDFuBukVxcW1vwnTYogwcqfgwMz151-oAo6dBsEJlu4bremSDh4eyaA3z2gRPnf1aGG~KoNWcQJQaVsX1u2hzZeZ4IBTxA~OHFGfQjNAF137TxeB0ziE9mNSSYFQ-K1JrdgelwoG6QsZ~P6Xo42WATidLsZAmRGe-i7M3eSfNIz0FeEyRmrG3MJ5lvyHYo7nHd8fgSKC~KbeMHxV-PC1PyeTUC6rlNCWSis-dgVTmZ1RAn6QbZzhpvhMpmzGNp1sEbe1ypnoWifTxR-v9Qv-PAHR4RjRKmtA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_17_Screenshot 2020-08-17 at 10.48.35 AM.png]]
 ## Structure
 ### Introduction
 #### Where did I first hear of it?
+##### APAC Med
 #### What is this?
 #### What does this do in short?
 ### Tackles/psycology
