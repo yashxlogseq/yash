@@ -86,27 +86,28 @@ ce
    :END:
 #### List of awards from website [[https://cdn.logseq.com/%2F86e6e2fb-2f01-4c97-9a06-ba3736c40a2a2020_08_17_Screenshot%202020-08-17%20at%2010.48.35%20AM.png?Expires=4751247046&Signature=ig~AFYGTF4nzltt5a0DKXnUwNugbDR5JXHOL~-ElBYfhubW3uHsxyzqDFuBukVxcW1vwnTYogwcqfgwMz151-oAo6dBsEJlu4bremSDh4eyaA3z2gRPnf1aGG~KoNWcQJQaVsX1u2hzZeZ4IBTxA~OHFGfQjNAF137TxeB0ziE9mNSSYFQ-K1JrdgelwoG6QsZ~P6Xo42WATidLsZAmRGe-i7M3eSfNIz0FeEyRmrG3MJ5lvyHYo7nHd8fgSKC~KbeMHxV-PC1PyeTUC6rlNCWSis-dgVTmZ1RAn6QbZzhpvhMpmzGNp1sEbe1ypnoWifTxR-v9Qv-PAHR4RjRKmtA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_17_Screenshot 2020-08-17 at 10.48.35 AM.png]]
 ## Structure
-### Introduction
-#### Where did I first hear of it?
+### **Introduction**
+#### _Where did I first hear of it?_
 ##### APACMed 2019
 ##### Booth
 ###### Had a virtual representation of [[ANT]]. Dive deep into how it works and how it can be beneficial
 ##### Won the MedTech Innovator 1st Price
-#### What is this?
+#### _What is this?_
 ##### Firms that makes ANT
-#### What does this do in short?
+#### _What does this do in short?_
 ##### As the name suggests, ANT (automated needle targeting)
-#####
-#### What does this aim to do?
-### Tackles/psycology
-#### Stats on human error
-### Current applications & solution
-#### The two products
-##### ANT - X
-##### ANT - C
-### Development timeline
+##### Description
+###### Integrated robotics systems
+#### _What does this aim to do?_
+### **Tackles/psycology**
+#### _Stats on human error_
+### **Current applications & solution**
+#### _The two products_
+##### _ANT - X_
+##### _ANT - C_
+### **Development timeline**
 #### From ((5f39892d-d1a5-4e86-8253-443465707625))
-### Future prospect
+### **Future prospect**
 #### From ((5f398a1d-f257-44d9-bbe9-674cdce62bba)) and ((5f398a60-1aa1-4d21-a67a-c37aac287d3a))
 pment
 ### Current Applications
