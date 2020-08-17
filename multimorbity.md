@@ -13,3 +13,6 @@ tags:
 ## https://wp.ufpel.edu.br/gbem/en/2018/02/07/what-is-multimorbidity/
 ## These problems include physical conditions such as heart problem, diabetes and vision problem, and mental health such as depression.
 ## Studies indicate that multimorbity is related to the individuals’ age and socioeconomic conditions, that is, elderly people with worse economic and living conditions tend to be the most affected
+   :PROPERTIES:
+   :CUSTOM_ID: 5f35a713-5d52-4a05-b953-9db3cfccdcaa
+   :END:

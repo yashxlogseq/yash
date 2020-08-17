@@ -63,6 +63,9 @@ ce
 ### **ANT X**
 #### ANT-X automates the alignment using real-time fluoroscopic images. It automatically generates a precise trajectory from a chosen entry point on the surface of the skin to a target deep within the body. The position is then maintained and provides a mechanical guide, awaiting for the insertion of a needle by the surgeon. The path of the needle is stabilised in multiple planes to ensure path of the needle stays aligned to the target
 #### ANT X sugery
+   :PROPERTIES:
+   :CUSTOM_ID: 5f398a60-1aa1-4d21-a67a-c37aac287d3a
+   :END:
 ##### PCNL procedure requires establishment of keyhole access for percutaneous nephrolithotomy (PCNL) to remove kidney stones larger than 20mm. A hollow needle is required to puncture the skin, position and insert it through the body layers to reach the stone target through the posterior calyx with the assistance of a real time C-arm fluoroscope (x-ray).
 ##### Current difficulties include uncertainties and complexity in gaining precise renal access to kidney potentially causing increased surgery duration and risk of multiple misaligned punctures made. Therefore, PCNL is usually only performed and supervised by veteran surgeons.
 ##### The advent of ANT X introduces image registration to real-time positioning combined with the precision adjustment and guiding technology. The integration of ANT software and robot, harnessed with the skill and dexterity of the surgeons’ experience will manage the needle alignment and insertion process with significantly greater precision. With the alignment process automated through ANT software, radiation exposure to the surgeon’s hands is significantly reduced as well. The surgery assisted robotic device stabilizes and holds the needle firmly at the planned insertion point, awaiting for the insertion of needle by surgeons.
@@ -70,11 +73,17 @@ ce
 ### **ANT C**
 #### ANT automate the positioning and alignment using in-situ CT images with AI, providing the location and verification of the malignancy of the tumor. AI also helps with mapping of blood vessels and surrounding organs which are taken in context and consideration upon planning the trajectory- avoiding unintentional perforations. ANT C lessens the analytical work to navigate in three-dimensional space thus reduces variability during surgery, allowing surgeons to concentrate on the surgical procedure and ensuring patient’s safety.
 #### Applications
+   :PROPERTIES:
+   :CUSTOM_ID: 5f398a1d-f257-44d9-bbe9-674cdce62bba
+   :END:
 ##### For lung biopsy and ablation, the key problem faced are incidence of complications such as pneumothorax, bleeding and infection which can potentially be fatal.
 ##### One of the causation of such complications lies in the biopsy needle insertion process.  Current process involves surgeon having to plan the entry point and angle of insertion. Poor planning however can result in suboptimal needle insertion path and higher risk of biopsy complications. Depending on the skill of the clinician, it can be very difficult to insert the needle exactly where the surgeon envisioned. Variation in the experience of the surgeon can also cause uncertainty in the effects of insertion.
 ##### With ANT’s technology, target identification and feature mapping using AI for access trajectory planning is now possible. Complex target navigation with existing imaging modalities using computer vision and image analysis for data integration is conducted to optimise surgery in order to reduce complications. The robot’s position is then calibrated using reference markers and the angle of insertion is automatically set and stabilized to prevent unintentional skewed movements of needle. Effective targeted precision and reduced surgical complications is achieved. In addition, the smart system is accompanied with a simple user friendly interface adapted to current processes for surgeons. Consistency in biopsy and ablation results can be attained even with less experienced surgeons. Furthermore, with ANT’s minute deviation in accuracy, it allows for targeting of small lung nodules during early stages of lung cancer. This directly correlates to possibly earlier detection and hence enabling detection and hence enabling patients to receive cancer treatments in early stages with better clinical outcomes. ANT C is currently undergoing animal trial for lung biopsy surgery.
 ### Designed especially for different image modalities to revolutionise precision without compromising speed and safety
 ### **AWARDS**
+   :PROPERTIES:
+   :CUSTOM_ID: 5f39892d-d1a5-4e86-8253-443465707625
+   :END:
 #### List of awards from website [[https://cdn.logseq.com/%2F86e6e2fb-2f01-4c97-9a06-ba3736c40a2a2020_08_17_Screenshot%202020-08-17%20at%2010.48.35%20AM.png?Expires=4751247046&Signature=ig~AFYGTF4nzltt5a0DKXnUwNugbDR5JXHOL~-ElBYfhubW3uHsxyzqDFuBukVxcW1vwnTYogwcqfgwMz151-oAo6dBsEJlu4bremSDh4eyaA3z2gRPnf1aGG~KoNWcQJQaVsX1u2hzZeZ4IBTxA~OHFGfQjNAF137TxeB0ziE9mNSSYFQ-K1JrdgelwoG6QsZ~P6Xo42WATidLsZAmRGe-i7M3eSfNIz0FeEyRmrG3MJ5lvyHYo7nHd8fgSKC~KbeMHxV-PC1PyeTUC6rlNCWSis-dgVTmZ1RAn6QbZzhpvhMpmzGNp1sEbe1ypnoWifTxR-v9Qv-PAHR4RjRKmtA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_17_Screenshot 2020-08-17 at 10.48.35 AM.png]]
 ## Structure
 ### Introduction
@@ -82,14 +91,21 @@ ce
 ##### APACMed 2019
 ##### Booth
 ###### Had a virtual representation of [[ANT]]
+##### Won the MedTech Innovator 1st Price
 #### What is this?
+##### Firms that makes ANT
 #### What does this do in short?
+##### As the name suggests, ANT (automated needle targeting)
 ### Tackles/psycology
-### Current applications
+#### Stats on human error
+### Current applications & solution
 #### The two products
-### Solutions
-### Devolopment timeline
-### Future prosepect
+##### ANT - X
+##### ANT - C
+### Development timeline
+#### From ((5f39892d-d1a5-4e86-8253-443465707625))
+### Future prospect
+#### From ((5f398a1d-f257-44d9-bbe9-674cdce62bba)) and ((5f398a60-1aa1-4d21-a67a-c37aac287d3a))
 pment
 ### Current Applications
 ### Solution
