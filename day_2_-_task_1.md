@@ -105,13 +105,14 @@ ce
 ###### Costs effective, simple usage, faster and more accurate
 ###### Create measurable outcome and increase the competency of the junior doctor
 ### **Tackles/psycology**
-#### _Stats on human error_
 #### https://www.ncbi.nlm.nih.gov/books/NBK338594/
 ##### The Institute of Medicine (IOM) has defined quality of care as “the degree to which health services for individuals and populations increase the likelihood of desired health outcomes and are consistent with current professional knowledge”
 ##### The IOM's report Crossing the Quality Chasm further elaborated on high-quality care by identifying six aims of quality: “ Health care should be (1) safe—avoiding injuries to patients from the care that is intended to help them; (2) effective—providing services based on scientific knowledge to all who could benefit and refraining from providing services to those not likely to benefit; (3) patient-centred—providing care that is respectful of and responsive to individual preferences, needs, and values, and ensuring that patient values guide all clinical decisions; (4) timely—reducing waits and sometimes harmful delays for both those who receive and those who give care; (5) efficient—avoiding waste, including waste of equipment, supplies, ideas, and human resources; and (6) equitable—providing care that does not vary in quality because of personal characteristics, such as gender, ethnicity, geography, and socioeconomic status” (IOM, 2001, p. 6).
 ##### The IOM defines an error in medicine to be the “failure of a planned action to be completed as intended (i.e., error of execution) and the use of a wrong plan to achieve an aim (i.e., error of planning) [commission]”
 ##### The IOM report To Err Is Human: Building a Safer Health System distinguished among four types of error: diagnostic, treatment, preventive, and other
-#####
+##### Schiff and colleagues (2005) divide the diagnostic process into seven stages: (1) access and presentation, (2) history taking/collection, (3) the physical exam, (4) testing, (5) assessment, (6) referral, and (7) follow-up.
+#### _Stats on human error_
+##### “Human factors” can be defined as the study of the interrelationships between humans, the tools we use and the environment in which we live and work.9 It focuses on the cognitive and physical abilities of people as they interact with technology.
 ### **Current applications & solution**
 #### _The two products_
 ##### _ANT - X_
