@@ -35,7 +35,7 @@
 ### (2) Manipulation by the firms involved
 #### CA CEO stating that they dint have FB data, but they actually did. The whole firm was built on FB data
 ### (3) We may not know the complete picture or extent of the truth as there are multiple powerful factions involved in this matter
-## After nearly a year of its critics demanding that Facebook respect users’ privacy, here was Facebook saying: “Fine, privacy you shall have.", and as the Wired put it, "the Great Privacy Awakening". There has been a growing mistrust and a growing recognition that companies can no longer be left to regulate themselves. Facebook also implemented end to end encryption. Is this good or bad? In the words of the WIRED "it could also do plenty of damage, creating even more dark spaces on the internet for misinformation to spread and for criminal activity to fester".  This fiasco has sparked a conversation at the least, once purely the domain of academics and privacy nerds, into the mainstream, quoted WIRED.
+## After nearly a year of its critics demanding that Facebook respect users’ privacy, here was Facebook saying: “Fine, privacy you shall have.", and as the Wired put it, "the Great Privacy Awakening". There has been a growing mistrust and a growing recognition that companies can no longer be left to regulate themselves. Facebook also implemented end to end encryption. Is this good or bad? In the words of the WIRED "it could also do plenty of damage, creating even more dark spaces on the internet for misinformation to spread and for criminal activity to fester".
 ## **Second RLS** -> Revised [[Secondary RLS]] roiters
 ### This claim has been circulating, creating headlines and being a point of discussion for just over a decade
 ### Background - Article IX, section 1 of Hamilton's draft constitution provided: "No person shall be eligible to the office of President of the United States unless he be now a Citizen of one of the States, or hereafter be born a Citizen of the United States."
@@ -45,3 +45,4 @@
 ##### Repeated for Kamala Harris
 #### (2) This "shifts" the focus of the media, of the nation to such extents that the president himself must come up to remind Americans that we cannot waste time on "sillness" of this proportion.
 ### 13% of all Americans and nearly one in four Republicans continue to say he was definitely or probably born in another country. And one in five Americans still say they don't know enough to say one way or the other.
+All in all, this data scandal has sparked a conversation at the least, once purely the domain of academics and privacy nerds, into the mainstream. And with those words, Aadit and I would like to thank you for your time.
