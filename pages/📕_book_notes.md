@@ -1,7 +1,3 @@
----
-title: 📕 Book Notes
-tags:
----
 ## ALL BOOKS
 ## [[BOOK - Rich Dad Poor Dad]]
 ## [[BOOK - Show Your Work!]]
