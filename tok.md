@@ -75,8 +75,9 @@ ft'**
 #### The second one adhere'a to corporate social responsibility and the categorical imperative
 ##### The categorical imperative states that every action you take should be rigorously assessed in terms of its moral acceptability.
 ### As we have established, Profit earnings by a firm are not correlated with them being ethical
-### Profit may be a key motive for any firm, but in this day and age, it is certainly not the only key motive and priority. A firm may choose not to exhibit CSR, which is absolutely fine as long as they remain in the legal boundaries of the country they operate in.
-### Moreover there are companies who are known to give equal importance to being ethical, portraying CSR and being profitable -> **BODY SHOP**
+### Profit may be a key motive for any firm, but in this day and age, it is certainly not the only key motive and priority. A firm may choose not to exhibit CSR, which is absolutely fine as long as they remain in the
+### Moreover, there are companies who are known to give equal importance to being ethical, portraying CSR and being profitable -> **BODY SHOP** -> animal cruelty-free shit.
+traying CSR and being profitable -> **BODY SHOP**
 ## **Limitations**
 ### …Fiasco between CA FB and law
 ### (1) Firms in themselves and consumers may have differing ethical morals which pushes one to do something the other finds unethical
