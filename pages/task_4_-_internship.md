@@ -92,8 +92,10 @@ ds
 #### A product cannot actually be set to serve low-tier costumers, because this business though nobel is not scallable in any sense. Most innovators in the MedTech space, and I am guilty of this, look for a premium product to a low tier costumer. This is possible, I do not disagree, but this model is simply not scalable.
 ##### When it comes to scalability, another aspect that plays an important role is the efficiency part of it. YOU may not be very profitable, our you may not be making a net positive income flow, but when you have an apt system that enables the marriage of automation and ecosystem, like [[Zenyum]] can actually benefit yo
 ### [[Patients are turning to digital channels]]
-#### This the key. YOU do not need to bring MedTech to people. YOU need to bring MedTech to people packaged into a software, packaged into a (as much as possible) digitised product all together. This is something that [[Zenyum]] has done
-### The fact that organizations with senior global representation in Asia experience better communication and decision-making points to the importance of smooth local-global collaboration—this is a lever to empower Asia that surprisingly few companies are using at the mom
+#### This the key. YOU do not need to bring MedTech to people. YOU need to bring MedTech to people packaged into a software, packaged into a (as much as possible) digitised product all together. This is something that [[Zenyum]] has 
+### The fact that organizations with senior global representation in Asia experience better communication and decision-making points to the importance of smooth local-global collaboration—this is a lever to empower Asia that surprisingly few companies are using at the moment.
+### Play as a parter in the healthcare system
+####
 
 ###
 .
