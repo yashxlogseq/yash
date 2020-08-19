@@ -33,6 +33,27 @@
 ## **ZENYUM**
 ### 10 countries
 ### There is some real good pricing. They are transparent in a way, and disclose everything upfront. A clear system that make braces less of a ball-ache to figure out the logistics for to a system which actually makes some decent sense.
+#### all you pay for your clear aligners is $2,400
+#### 70% more affordable than other clear aligners on the market, that can range anywhere from $5,000 to $10,000. In fact, Zenyum is even more affordable than traditional metal braces, which cost upwards of $3,500.
+#### Initial doctor consultation ($120–$170), Re-scan post treatment ($100), Retainers ($300)
+#### Process
+##### Initial consultation -> money goes to partner clinics
+#### Payment plan laid out very specifically.
+### From the website
+#### The lack of supervision or involvement by a certified dentist means that you’re exposing yourself to an increased risk of infection and tooth damage.
+#### No duty of care means that no one is held responsible for the safety and success of the treatment. If something goes wrong, sometimes the orthodontic treatments required to fix the damage are much more expensive than having taken precautions at the beginning.
+## An easy to use the system, which relies on technology to survey patients, communicate with patient's and depends on AI to actually make the invisible braces.
+### 6 Free (additional sets of braces if stuff has not worked according to plan)
+## [Facebook video](https://www.facebook.com/Structo3D/videos/2402641323324695)
+## Dentistry has not evolved too much
+## Handful of tech
+## Scanning + 3d printing
+### Disruptive
+### Creates clearliners
+## Use of structo or something like that specialises in 3d priniting in the dentistry space.
+### Gives automation and ecosystem
+## Under an hour printing
+## Make stuff more affordable to the rising asian middle class
 ## comparative study - 10 points
 ##### presentation - 5 points
 ##### various aspects been covered (from the recommended structure)- 15 points
