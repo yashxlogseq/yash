@@ -12,7 +12,7 @@
 #### Comparison & Company Prospects
 #### Comparative study between the 2 startups selected
 ### Optional Add on - Innovative Business Models
-### Include Innovative Business Models incorporated by the 9 Macro Tech Forces- Nine macro technology forces—digital experience, analytics, cloud, core modernization, risk, the business of technology, digital reality, cognitive,  blockchain ([https://www.reuters.com/article/idUSWAOAGKWH0PQE201O](https://www.reuters.com/article/idUSWAOAGKWH0PQE201O))
+### Include Innovative Business Models incorporated by the 9 Macro Tech Forces- Nine macro technology forces—digital experience, analytics, cloud, core modernization, risk, the business of technology, digital reality, cognitive,  blockchain https://www.reuters.com/article/idUSWAOAGKWH0PQE201O
 ### Mode Of Delivery: Report (upto 5 pages including images / graphs / infographics)
 ### Criteria:
 #### graphs and charts - 15 points
