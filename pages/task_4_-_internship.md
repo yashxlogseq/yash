@@ -32,7 +32,7 @@
 ## Another firm that I came across was spacemaker, but that was something that did not fit the theme that I needed.
 ## **ZENYUM**
 ### 10 countries
-###
+### There is some real good pricing. They are transparent in a way, and disclose everything upfront. A clear system that make braces less of a ball-ache to figure out the logistics for to a system which actually makes some decent sense.
 ## comparative study - 10 points
 ##### presentation - 5 points
 ##### various aspects been covered (from the recommended structure)- 15 points
