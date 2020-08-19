@@ -1,8 +1,4 @@
----
-title: TOK Flashcards
----
-
-## FLASHCARDS
+FLASHCARDS
 ## **The three idea's from RLS**
 ### (1) being the idea of data-mining
 ### (2) the idea of firms running behind profit and raking in cash and
