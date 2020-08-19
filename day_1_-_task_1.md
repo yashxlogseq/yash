@@ -50,6 +50,9 @@ tags:
 ## The clear complete overlap between science and technology can be seen in the [[microchip]] example from Triggered Insaan's YouTube channel (story time)
 ## It is not possible to put every aspect of this topic in the one venn diagram. It needs to be done in various diagram
 ## [Source](https://www.belfercenter.org/sites/default/files/legacy/files/sciencetechnology.pdf) [[Technology and science: An analysis]]
+   :PROPERTIES:
+   :CUSTOM_ID: 5f365b3a-14fc-4017-bde6-88e51cd586fa
+   :END:
 ### There is clearly a **'pipeline model'** when it comes to the innovation process of new tech.
 ### Science -> applied research -> design -> manufacturing -> commercialisation and marketing
 ### ^^The confusion between engineering (originating from technology) and science^^
