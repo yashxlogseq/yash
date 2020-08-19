@@ -58,6 +58,8 @@ ystem
 #### Under an hour pr
 #### Make stuff more affordable to the rising asian middle class
 ## **TEMPUS**
+### Personal thoughts
+#### This firm is basically a lab, that uses data and tools accelerate pateint care.
 ### Bring technology to the physicians who see patients every day.
 ### "rich" genomic data
 ### MedTech -> **what is the basic goal?** to improve patient outcome.
@@ -70,8 +72,12 @@ ystem
 #### Our genomic tests analyze DNA, RNA, and proteomic data to understand a patient's tumor at the molecular level so we can identify treatment options tailored to each and every patient.
 #### Our platform analyzes thousands of clinical and molecular data points, connecting physicians with up-to-date treatment options and relevant insights for patients based on their unique molecular profile and our advanced analytics and machine-learning algorithms.
 ### Products and services
-####
+#### Tempus analyzes nearly 1/3 of all U.S. cancer patients and a growing percentage of depression patients. We have also expanded into new disease areas like cardiology, and most recently have expanded into infectious diseases through our COVID-19 offering.
+##### Relates to the diversification point
+#### Industry low prices
 ### Applications
+### With the right data, we can power AI and machine learning approaches to accelerate drug development for patients.
+s
 ## Definition of precision medicine: Precision medicine is a medical model that proposes the customization of healthcare, with medical decisions, treatments, practices, or products being tailored to a subgroup of patients, instead of a one‐drug‐fits‐all model.
 ## Some interesting stats
 ### [[https://cdn.logseq.com/%2F86e6e2fb-2f01-4c97-9a06-ba3736c40a2a2020_08_19_Screenshot%202020-08-19%20at%209.24.36%20PM.png?Expires=4751443521&Signature=Big3bHrD3Z~GNNYpuMRqi9IO821fZ4f0sc25XkImOyEGAU8cdDCBgZ5tks4GHfhbYlcrM~oTOEgU3Adxo0NocEmxXqSWvrX3cDq8vZdwxE3y9ywqLvxUWm5N3LXi9KTI9yN0LSwNNwrXJdZ9omonBsR72-hS4PmArcmzH~mbGo8znCp9mvqws8flJyslFoBn2azmY2AeR32tsTYE3DY5JP7aZgsKEys7eTp8OfW0HbZaV~GFmvggjSATggGrgvWiMENxVFIxFpZ~~meGzzEMX7GLDKOJuWNxC~YyjD36MFkLJKBKxowQuCUKRrcNIpS40WZcY16CTx8JPVCME7SweA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_19_Screenshot 2020-08-19 at 9.24.36 PM.png]]
@@ -102,8 +108,7 @@ ds
 ### Play as a parter in the healthcare system
    :PROPERTIES:
    :CUSTOM_ID: 5f3d25ad-dd63-47b7-b116-c5b937d907c8
-   :END:
-m
+   :EN
 ####
 
 ###
