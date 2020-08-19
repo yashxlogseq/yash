@@ -53,6 +53,7 @@
 #### Use of structo or something like that specialises in 3d priniting in the dentistry sp
 ##### Gives automation and ecosystem
 ##### Relates to the point of: ((5f3d2338-b573-44ca-8a49-200858d97a82))
+##### Idea of ((5f3d25ad-dd63-47b7-b116-c5b937d907c8))
 ystem
 #### Under an hour pr
 #### Make stuff more affordable to the rising asian middle class
@@ -69,11 +70,10 @@ ystem
 #### Our genomic tests analyze DNA, RNA, and proteomic data to understand a patient's tumor at the molecular level so we can identify treatment options tailored to each and every patient.
 #### Our platform analyzes thousands of clinical and molecular data points, connecting physicians with up-to-date treatment options and relevant insights for patients based on their unique molecular profile and our advanced analytics and machine-learning algorithms.
 ## Definition of precision medicine: Precision medicine is a medical model that proposes the customization of healthcare, with medical decisions, treatments, practices, or products being tailored to a subgroup of patients, instead of a one‐drug‐fits‐all model.
-##
-## [[The rise and rise of medtech in Asia]]
+## [Source](https://www.mckinsey.com/industries/pharmaceuticals-and-medical-products/our-insights/the-rise-and-rise-of-medtech-in-asia) [[The rise and rise of medtech in Asia]]
 ### **THE MEDTECH SPACE IS ALL ABOUT SCALABILITY. IF YOU CANT SCALE, YOU CANT SUCEED**
 ### Success in Asia does not come easy—on the contrary, it requires agility, innovation, and long-term commitment to stay abreast of trends in this fiercely competitive market.
-### Asia today already represents 23 percent of the global market. Within the next five years (by 2023), Asia will eclipse Europe to become the second-largest regional market. During that period, Asia will also be the major growth engine among global medtech markets, contributing 35 percent of total incremental growth (Exhibit 1).
+### Asia today already represents 23 per cent of the global market. Within the next five years (by 2023), Asia will eclipse Europe to become the second-largest regional market. During that period, Asia will also be the major growth engine among global Medtech markets, contributing 35 per cent of total incremental growth (Exhibit 1).
 ### [[https://cdn.logseq.com/%2F86e6e2fb-2f01-4c97-9a06-ba3736c40a2a2020_08_19_Screenshot%202020-08-19%20at%207.11.35%20PM.png?Expires=4751437966&Signature=HEEyAF~yKTsMt08bSjJAUXqqRw9UkNtRidcISwajrMnIlGgDQK4Nlisry1B4cUFuXgQ8Z3Xd1o8Xkrz0cyGKBiEwW82~tV-52408h7qQHhVke0XQzNwnC3TAfwffCfSoYSxwroCIctzuO87Yi25D~1sN56-KPOv4x8Af-~RAZmJeJ858KOoBTJLdGOnYeWk6lembB7qBgaWkVUla2pPkaGeh9fQCmCre5E3Bn~UUlKfgCupMbtv3hNMpwF82khlWTDE9TcaPpxlqSt~-dcIQroaDG1BS09z4Z5xqWDb7yl9FFtPC2t~2YmTxnT5-LFg3XtwtnDVGXFiuyMUK3VlhBQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_19_Screenshot 2020-08-19 at 7.11.35 PM.png]]
 ### At the same time, APAC executives—especially general managers in China and India—feel their existing portfolios don’t adequately meet the needs of their customers.
 #### That is the reason why so many market players image. There is always more skill to be aquired, and once done, it opens a new door in the APAC market
@@ -93,8 +93,12 @@ ds
 ##### When it comes to scalability, another aspect that plays an important role is the efficiency part of it. YOU may not be very profitable, our you may not be making a net positive income flow, but when you have an apt system that enables the marriage of automation and ecosystem, like [[Zenyum]] can actually benefit yo
 ### [[Patients are turning to digital channels]]
 #### This the key. YOU do not need to bring MedTech to people. YOU need to bring MedTech to people packaged into a software, packaged into a (as much as possible) digitised product all together. This is something that [[Zenyum]] has 
-### The fact that organizations with senior global representation in Asia experience better communication and decision-making points to the importance of smooth local-global collaboration—this is a lever to empower Asia that surprisingly few companies are using at the moment.
+### The fact that organizations with senior global representation in Asia experience better communication and decision-making points to the importance of smooth local-global collaboration—this is a lever to empower Asia that surprisingly few companies are using at the moment
 ### Play as a parter in the healthcare system
+   :PROPERTIES:
+   :CUSTOM_ID: 5f3d25ad-dd63-47b7-b116-c5b937d907c8
+   :END:
+m
 ####
 
 ###
