@@ -93,7 +93,8 @@ ds
 ##### When it comes to scalability, another aspect that plays an important role is the efficiency part of it. YOU may not be very profitable, our you may not be making a net positive income flow, but when you have an apt system that enables the marriage of automation and ecosystem, like [[Zenyum]] can actually benefit yo
 ### [[Patients are turning to digital channels]]
 #### This the key. YOU do not need to bring MedTech to people. YOU need to bring MedTech to people packaged into a software, packaged into a (as much as possible) digitised product all together. This is something that [[Zenyum]] has done
-### The fact that organizations with senior global representation in Asia experience better communication and decision-making points to the importance of smooth local-global collaboration—this is a lever to empower Asia that surprisingly few companies are using at the moment.
+### The fact that organizations with senior global representation in Asia experience better communication and decision-making points to the importance of smooth local-global collaboration—this is a lever to empower Asia that surprisingly few companies are using at the mom
+
 ###
 .
 ne.
