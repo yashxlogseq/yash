@@ -22,7 +22,18 @@
 ###### presentation - 5 points
 ###### comparative study - 10 points
 ##### final thoughts (your take)- 5 points
-##### comparative study - 10 points
+## The two companies that I would be discussing
+### [Zenyum](https://www.zenyum.com/sg-en) and [Tempus](https://www.tempus.com)
+### Funding
+#### USD15.1M for Zenyum and USD100M ++ for Tempus
+## Why did I choose these two?
+### I have had braces before, and the cost aspect is something that I failed to capitalise on
+### Tempus is focusing on precision medicine that is basically something that is a key aspect.
+## Another firm that I came across was spacemaker, but that was something that did not fit the theme that I needed.
+## **ZENYUM**
+### 10 countries
+###
+## comparative study - 10 points
 ##### presentation - 5 points
 ##### various aspects been covered (from the recommended structure)- 15 points
 ##### how inferences have been made from the data - 15 points
