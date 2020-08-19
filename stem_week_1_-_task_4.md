@@ -1,3 +1,4 @@
+## size quantity and uncertanity
 ## Details
 ### Task: Choosing an industry (but under Tech & Big Data!) and analyzing it from a start-up perspective. You have to choose startups in that domain and analyze them along with the dynamics of the industry.
 ### Explanation: Tech startups are the next big thing. Before we go in too deep into something, it is very important to take a broader look at several perspectives and nobody provides it better than startups. Choose 2 startups - one well established (e.g. Google) and one startup in the growth phase or failed to gain traction, but is still there (e.g. SlideBean).
