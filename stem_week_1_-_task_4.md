@@ -15,14 +15,14 @@
 ### Include Innovative Business Models incorporated by the 9 Macro Tech Forces- Nine macro technology forces—digital experience, analytics, cloud, core modernization, risk, the business of technology, digital reality, cognitive,  blockchain ([https://www.reuters.com/article/idUSWAOAGKWH0PQE201O](https://www.reuters.com/article/idUSWAOAGKWH0PQE201O))
 ### Mode Of Delivery: Report (upto 5 pages including images / graphs / infographics)
 ### Criteria:
-### graphs and charts - 15 points
-### quality of sources - 10 points
-### how inferences have been made from the data - 15 points
-### various aspects been covered (from the recommended structure)- 15 points
-### presentation - 5 points
-### comparative study - 10 points
-### final thoughts (your take)- 5 points
-### Total Points: 75
+#### graphs and charts - 15 points
+#### quality of sources - 10 points
+#### how inferences have been made from the data - 15 points
+#### various aspects been covered (from the recommended structure)- 15 points
+#### presentation - 5 points
+#### comparative study - 10 points
+#### final thoughts (your take)- 5 points
+#### Total Points: 75
 ### Key resource: [https://www.comptia.org/content/research/it-industry-trends-analysis](https://www.comptia.org/content/research/it-industry-trends-analysis)
 ### Submission Deadline: Wednesday, 19 Aug
 ### Submission Method: Word Document / Google Docs, GDrive
