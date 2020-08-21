@@ -1,8 +1,3 @@
----
-title: CrashBoards x Waxdale Pitch
-tags:
----
-
 ## **Start-up Pitch** on [[Aug 4th, 2020]] Prep
 ## This pitch has been constantly delayed. By consumer rating on this is the best part of 4/10 even before attending this.
 ## Details

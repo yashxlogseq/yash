@@ -1,10 +1,3 @@
----
-title: Script
-tags:
----
-
-##
-## Ecosystem based in canda base
 ## Good evening Ladies and gentlemen. I am extremely proud to present our pitch for our brainchild — CrashBoards International, which is a social enterprise aimed at an international audience co-founded by myself — Yash Agrawal — Adithya, and Ayush.  So on the slide right now you see what we aim to cover in the next 10 - 15 minutes.
 ## I want to start off by a bit of a personal anecdote for you guys, I had once signed up for an online tutoring service, where I realised the skills we can acquire from high-quality peer-peer learning. Why is this anecdote important? Well, this is the realisation from which the idea of CrashBoards International was born, intended to provide pocket-friendly short-duration intense crash courses powered by students and ex-students. This quite conveniently also support our two goals which are: (1) beneficial, impactful and sustainable peer-to-peer learning and, (2) providing a source of income to students.
 ## Modelled around efficiency and flexibility CrashBoards International will offer an entire breadth of 24 subjects across two internationally recognised boards to start off with, the IGCSE and the IBDP (full forms can come up on the slide). Our business structure offers this paid service for SG$20 - 40 per day, per student. For comparison ladies and gentlemen, our daily cost is half, the hourly cost of professional tutors. How do we do it? Well, we will explain that shortly. As for the subjects, we offer a wide range of sciences and humanities including the study of economics, business, computers, the whole deal.
