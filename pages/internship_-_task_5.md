@@ -1,3 +1,4 @@
+## Details
 ## *Task:* A dive into the technological development and improvement of the company along with understanding the growth trajectory. Exploring the technological aspects that make the company strong.
 ## *Explanation:* Apart from the technical side of things - its important to understand how these companies have grown/are growing. Look into things like company finances, revenue, size etc.
 ## *Tip:* Youtube can be a great source of understanding the various aspects of the timeline
