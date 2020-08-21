@@ -78,5 +78,6 @@
 ## [WorldRemit](https://www.worldremit.com) idea from [Deloitte](https://www2.deloitte.com/gr/en/pages/technology-media-and-telecommunications/articles/fastest-growing-tech-companies-emea.html)
 ##
 ## Moreover, rise in payment automation and digitalization is expected to create growth opportunities for market over the forecast period.
+##
+## Moreover, rise in payment automation and digitalization is expected to create growth opportunities for market over the forecast period.
 ## Rapid growth in industrialization and urbanization is attracting the population of different semi-rural and rural areas towards the urban parts of the world. People are moving to various locations and countries in search of education or jobs. This, as a result, is driving the need for cross-border transactions. Moreover, the usage of digital remittance services offers users with high security and privacy.
-## Why can't I start off with a
