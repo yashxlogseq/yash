@@ -8,19 +8,19 @@
 ### Mode Of Delivery: Infographic, charts, timeline, with a short write-up rationalizing your metrics & brief explanation of the Infographic (max 500 Words total).
 ### *Google Docs/ Word Doc* along with the infographics and charts inside the document.
 ## ***Criteria:***
-## various technological aspects and history has been explained - 10 points
-## timeline and flow - 5 points
-## infographics and charts - 10 points
-## presentation - 5 points
-## comparative study for all metrics - 15 points (technology advancements and investments should be highlighted)
-## presentation - 5 points
-## each additional rationalized metric +2 bonus point
-## *Total Points:* 50 ++
+### various technological aspects and history has been explained - 10 points
+### timeline and flow - 5 points
+### infographics and charts - 10 points
+### presentation - 5 points
+### comparative study for all metrics - 15 points (technology advancements and investments should be highlighted)
+### presentation - 5 points
+### each additional rationalized metric +2 bonus point
+### *Total Points:* 50 ++
 ## ***Key resource/sample:***
-## [https://www.canva.com/](https://www.canva.com/)
-## [https://www.visualcapitalist.com/](https://www.visualcapitalist.com/)
-## [https://venngage.com/](https://venngage.com/)
-## [https://infogram.com/](https://infogram.com/)
+### [https://www.canva.com/](https://www.canva.com/)
+### [https://www.visualcapitalist.com/](https://www.visualcapitalist.com/)
+### [https://venngage.com/](https://venngage.com/)
+### [https://infogram.com/](https://infogram.com/)
 ## *Note:* Collect the data and research, make the infographics and charts and use the charts and visuals to explain it in the short write-up
 ## *Submission Deadline:* Thursday, 20 Aug 23:59 GMT
 ## *Submission Method:* GDrive
