@@ -111,6 +111,7 @@ The medical field has seen stuff like this. The example for this would be that o
 ### The best Asian companies are competing with global leaders and benefit from sharp insights into local market needs and nimbler organizations. In contrast, global leaders are often slower in responding to patient needs and cannot shift resources as quickly. Too frequently, local teams have limited input on longer-term decisions related to product development or manufacturing. Global med-tech companies in the region must offer their local leaders greater autonomy to optimize decisions and resource allocations.
 ## https://www.mckinsey.com/industries/pharmaceuticals-and-medical-products/how-we-help-clients/medtech/productivity-agility-and-automation
 ### In this infographic we the digital transformation part of it what give the scope for automation. Though one part of making MedTech, it is a key part in the **optimizing** process
+### /imag
 ents. Healthcare demand already outstrips supply in Asia–Pacific, and the gap will grow in line with continued increases in income, population, disease burdens, and general awareness of health issues.
 ### Asia–Pacific is a complicated collection of individual markets, often with little in common other than a shared continent. Political systems, economic development, cultural mores, and disease profiles, among other characteristics, vary widely from one country to the next.
 #### **Relate to ->** The disease profile is something that is seen in the NHS. The various drug profiles + the antibiotic production.
