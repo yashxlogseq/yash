@@ -75,6 +75,16 @@
 ## *Note:* Collect the data and research, make the infographics and charts and use the charts and visuals to explain it in the short write-up
 ## *Submission Deadline:* Thursday, 20 Aug 23:59 GMT
 ### *Submission Method:* GDrive
+## The fact that tech is required on economics of scale
+### Go into 50 or so words for EOS.
+##
+## Currently, access to quality healthcare—in particular, modern medical technology, or med-tech—is difficult for many patients. Healthcare demand already outstrips supply in Asia–Pacific, and the gap will grow in line with continued increases in income, population, disease burdens, and general awareness of health issues.
+## Asia–Pacific is a complicated collection of individual markets, often with little in common other than a shared continent. Political systems, economic development, cultural mores, and disease profiles, among other characteristics, vary widely from one country to the next.
+### **Relate to ->** The disease profile is something that is seen in the NHS. The various drug profiles + the antibiotic production.
+## limited financial resources and a frugal attitude toward spending on healthcare
+### This is something that is required for medtech.
+## an underdeveloped medical infrastructure and workforce, which affects the adoption and use of new technology
+### YOU can come up with the best software but, given the current infrastructure there is limited scope for its application. YOU may have
 ## [WorldRemit](https://www.worldremit.com) idea from [Deloitte](https://www2.deloitte.com/gr/en/pages/technology-media-and-telecommunications/articles/fastest-growing-tech-companies-emea.html)
 ##
 ## Moreover, rise in payment automation and digitalization is expected to create growth opportunities for market over the forecast period.
