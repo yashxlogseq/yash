@@ -84,7 +84,9 @@
 ## limited financial resources and a frugal attitude toward spending on healthcare
 ### This is something that is required for medtech.
 ## an underdeveloped medical infrastructure and workforce, which affects the adoption and use of new technology
-### YOU can come up with the best software but, given the current infrastructure there is limited scope for its application. YOU may have
+### YOU can come up with the best software but, given the current infrastructure, there is limited scope for its application. YOU may have [[Market appropriate innvoation]], but the market itself has not adapted to adopt that technology. Going back to the microscopic invention example, that it is inapt. There was a lack of technological advancement at that time to actually build a microscope to study diseases. Though it was a [[Market appropriate innvoation]], the medical field in the time of the black death was inept at applying the invention to the current scenario.
+## First, they should reexamine their commercial models and channels. Successful companies will have to build a range of go-to-market models that cater to patients with diverse needs and account for varying levels of healthcare awareness.
+### This once again connects to the fact of [[Patients are turning to digital channels]] and is something that [[Zenyum]] does so well with its online integration. Another example would be that of money transfer. Though out of context, financial transfer, stocks etc. have "reexamined their commercial models" to suite the times better. The medicine field has seen stuff like this. The example for this would be that of
 ## [WorldRemit](https://www.worldremit.com) idea from [Deloitte](https://www2.deloitte.com/gr/en/pages/technology-media-and-telecommunications/articles/fastest-growing-tech-companies-emea.html)
 ##
 ## Moreover, rise in payment automation and digitalization is expected to create growth opportunities for market over the forecast period.
