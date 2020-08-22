@@ -77,8 +77,13 @@
 ### *Tip:* Youtube can be a great source of understanding the various aspects of the timeline
 ### *Explanation:* Apart from the technical side of things - its important to understand how these companies have grown/are growing. Look into things like company finances, revenue, size etc.
 ### *Task:* A dive into the technological development and improvement of the company along with understanding the growth trajectory. Exploring the technological aspects that make the company strong.
-## *Explanation:* Apart from the technical side of things - its important to understand how these companies have grown/are growing. Look into things like company finances, revenue, size etc.
-## *Tip:* Youtube can be a great source of understanding the various aspects of the timeline
+## *Explanation:* Apart from the technical side of things - its important to understand how these companies have grown/are growing. Look into things like company
+### Go into 50 or so words for EOS.
+### https://gocardless.com/guides/posts/benefit-economies-scale/
+#### EOS  are cost advantages that can occur when a company increases their scale of production and becomes more efficient, resulting in a decreased cost-per-unit.
+#### Internal economies of scale are controlled by the company.
+##### This is something that technology enables MedTech firms to do
+p:* Youtube can be a great source of understanding the various aspects of the timeline
 ## ***Recommended Structure:
 ##### Though out of context, financial transfer, stocks etc. have "reexamined their commercial models" to suite the times better.
 #####
@@ -114,21 +119,32 @@ The medical field has seen stuff like this. The example for this would be that o
 ### Go into 50 or so wo
 ##### His stomach had a hole or something (do some research) which allowed us to figure out the function of gastric juices. For this now, we can simply use a camera. We can not only figure out the actions/mechanisms in the gut, but also we can investigate (for example) the nasal as well.
 ### The best Asian companies are competing with global leaders and benefit from sharp insights into local market needs and nimbler organizations. In contrast, global leaders are often slower in responding to patient needs and cannot shift resources as quickly. Too frequently, local teams have limited input on longer-term decisions related to product development or manufacturing. Global med-tech companies in the region must offer their local leaders greater autonomy to optimize decisions and resource allocations.
-### Key analytics and their explaination
-#### DONE All these images should be made in excel. The circles should be written out
-#### [[https://cdn.logseq.com/%2F86e6e2fb-2f01-4c97-9a06-ba3736c40a2a2020_08_22_Screenshot%202020-08-22%20at%202.36.45%20PM.png?Expires=4751678219&Signature=S3cQk07JDS5jQCp1-YW9JYKhWRCrs9phG6mVo9JR2sXnm0YtvTj7iS86OzcPVBFvs38TlDsO7w49WfAXa2tdNDgK9lBCtT5n0suJz6w8SSy3CW40SJN40fekUWnxOHcufZvfZuqzlEwofprKkzIz0rdlCaNtRp-EoyXhdrhaCG1UmgfzU8OS8UK9trhk5G~MCrq6EzvBrukQXKUxXKedfva8Wn0VFwVETm-V9vh61R5YRtm3e~RD1LFq9U9ScG7VPbMb1KwDYzcTQqc14VPC1kdwmBwhDkYLUOymJcimn1u5geFFTnAlTft6i8j2XX7wEwlVD~~1~UKZ4JiVO0ienA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_22_Screenshot 2020-08-22 at 2.36.45 PM.png]]
-#### [[https://cdn.logseq.com/%2F86e6e2fb-2f01-4c97-9a06-ba3736c40a2a2020_08_22_Screenshot%202020-08-22%20at%202.37.42%20PM.png?Expires=4751678290&Signature=S1Vu3tLNbP6TxsH3hhdpYivpkruHdDTDXkBevcl8AKg7a6EfJyFRuYSlXvw9mCCO6ZuS~8AOTo2372qNr3ciJ0s4vXKCnLL1bf~POedBPq4PIFLH6gjqCVSL~1roRwqRjWIDpXJ~JPoxGUi4p8ofqomwGPlt-1Y~5SbtrcsOyAjwpGCAfV6U6GlQ8i3MAQxSgmwTRaP1TJ9v03gRLPj-Vtz3kXcf-qDxJNCLKy3Ml2H5y8~t8pU~K1qiOn8MfgR~OVMnT9O-jbfy5S1VnGvHBVpbesU018sQeH7AwOb0MdLW0JB3mL7RQYo5DHxjQHt3GzntCIm2smDCLBZBQoOoeQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_22_Screenshot 2020-08-22 at 2.37.42 PM.png]]
-##### OECD (Organisation for Economic Co-operation and Development) physician density
-#### [[https://cdn.logseq.com/%2F86e6e2fb-2f01-4c97-9a06-ba3736c40a2a2020_08_22_Screenshot%202020-08-22%20at%202.37.52%20PM.png?Expires=4751678374&Signature=O9q222Wy7d--C~TSWjYME8kJtmgCKie4CZLvTupmaS3a587JDRWJciugZrM9ALhCEWySgX7GdNYGsMMwULuk3TB-LGw-iuanyQZiwAzJkV14sRtHNLhpteSTNQccizBy854CYFYTzPdlAwyM3Tscl3pWwWUf5YQeHGdQRCpXKHIMYwiye53brAZZgwMONohAA1~ynGhwWBUqIHmrq~kC0D1fxQ8msYzXy7aPix6B0B02eoFtjThGBe0EPxK447g1STtNS3jtFv3soIvqL0jxmggLnfTvNGSEixFLLnYIcbGB7ZrRToD16mesvm20fpO6cNhxoF1bv5w0y1Y8d2dlOA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_22_Screenshot 2020-08-22 at 2.37.52 PM.png]]
+### Key analytics and their explainatio
+#### [This](https://www.mckinsey.com/~/media/mckinsey/industries/pharmaceuticals%20and%20medical%20products/our%20insights/meeting%20growing%20asia%20pacific%20demand%20for%20medical%20technology/infographic_meeting%20growing%20asia-pacific%20demand_20160226.pdf) infographic
+t
+#### [[https://cdn.logseq.com/%2F86e6e2fb-2f01-4c97-9a06-ba3736c40a2a2020_08_22_Screenshot%202020-08-22%20at%202.46.41%20PM.png?Expires=4751678841&Signature=PBc3wAGCWGxJbdR1kiw5DWjSD4us9Q7XBWiI6Orbt-GTyYFYF1y2D~rj6mZmcV~O0izGyQt23HA9ngx~wlrTH-xBwL5A56VYEbCynfWCUOgIaro5fiLwg26pETxRE58FYFpuloEObIIqZ4U-L2vtT5fN7kTwm7sjhpE8wbJTdYzeulsZrosI8b6P7ytARwQpUZCRBcXgBkixRF1nZjpO9s02sf2OeC2TA6d5boz-ZeB1wS8J2xQw3iQqhz6qnYxnQwC0N3n07i1~3w~MEUh8GiQHEeQBcV-xoNQOPQOBmXwiHjrOHY3YKr~xTARiR97s8KSUhpX02s8bd3sx9UCktQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_22_Screenshot 2020-08-22 at 2.46.41 PM.png]]
+#### Due to inadequate infrastructure, India will take 85 years to achieve OECD physician density
+##### OECD (OaE rganisation for Economic Co-operation and Development) physician density
+#### Frugal spending: the average healthcare spend per capita [[https://cdn.logseq.com/%2F86e6e2fb-2f01-4c97-9a06-ba3736c40a2a2020_08_22_Screenshot%202020-08-22%20at%202.50.34%20PM.png?Expires=4751679068&Signature=kH1ufhpWH7L5Z1I75~KV0h-mck~EhxxF9sCO2CgQctvxD7F6jij-S7cB5BWHN4MVi5KSg0NVW5CMKKIJ~g3B2Imt-Ldj0Udu5FEqpoTYJjgwuRs1sxVgbC84oeBTyWKHLw3n3sWdc9j-5jPf4F3BzWlH7w7WUzgnSC5vfnVIc6J-3613sQEZvxr-8uC72YFqjYhfKwjILO8EyPMLHFKKYY5fjmp1UUAhBaBFQG17n4X1DauNaCIUKF0fMB7WLqmCw-Wx9d5vKkcYWUNLU49OHYNCuxwffksWnKWpRG70gLz1CnrBn7yJdOTrDLDD7mpOANgG4-Dn2NRF2aE0D1HSaQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_22_Screenshot 2020-08-22 at 2.50.34 PM.png]]
 ##### The fact that there are ((5f40b4a6-b912-43ad-b26c-a85af71bc86d))
 )
-## https://www.mckinsey.com/industries/pharmaceuticals-and-medical-products/how-we-help-clients/medtech/productivity-agility-and-automation
-### [[https://cdn.logseq.com/%2F86e6e2fb-2f01-4c97-9a06-ba3736c40a2a2020_08_22_Screenshot%202020-08-22%20at%202.22.42%20PM.png?Expires=4751677557&Signature=fnmBUZ5b1mFTTxrPV6NXUJ8nv9hRZ9OEGp0rqmHZGFs20YUJ5bqdv-3vbmBHeZrdhF7QTBbqpn~UXMmBIcDNkw5rcWwEzbTf53cM-CmIb~7IWr8x7HEPtmblWMbCulr0k5tVSNRFmOPBfOh0Ew7uREWKbYbaF227J6ImyJanS-~8XDFk4gno850~SLg0bwDNPuDVb2jIFjkvCjivuPHs6tsMJp08MjIzMXNgJIay4kghejkUoCDOZqhkZkOs4rlCa65DayYgMSkJ8oUOHtoC87gfmApWx6qTMTmhgWyFTcIBNJpw6dlUz0RXiuAxM30h8d6kvcLhwp7RQHojyAjxiQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_22_Screenshot 2020-08-22 at 2.22.42 PM.png]]
-### In this infographic we the digital transformation part of it what give the scope for automation. Though one part of making MedTech, it is a key part in the **optimizing** process
+## https://www.mckinsey.com/industries/pharmaceuticals-and-medical-products/how-we-help-clients/medtech/productivity-agility-and-automati
+### [[https://cdn.logseq.com/%2F86e6e2fb-2f01-4c97-9a06-ba3736c40a2a2020_08_22_Screenshot%202020-08-22%20at%203.02.31%20PM.png?Expires=4751679772&Signature=BdY1v8LzwVaTHvppSLkvGlWK24ysYyOB-LRjVJlxSESOrH-E8DxUGzNjUSqOR4WhQ6XhndHoTKghETsnUu~wEL2VgQte9FJcDT1duMsUmjEyfa6Cs07HFv7jNjHOlbZK5QhFl0oWyQITNlGIT7TeZQ8imNuEDSeiTbEFmFpEtA2o4VG9bjBZ0RwcuUVp1jdCeRdLwuqC9HqjibGbGNtxYoubztgOnd4B3ELoLw6BXGmjj9R9cEprJzV1mLIgM2N-cOpXBzoxKXZIV4x0cBm7bkrQW73iaJmvMpisMXtP2l8wqg8EYmYB9Ciar~Z2C8q1H9RkefERkyDD1kXeEErE2w__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_22_Screenshot 2020-08-22 at 3.02.31 PM.png]]
+]]
+### In this infographic we the digital transformation part of it what give the scope for automation. Though one part of making MedTech, it is a key part in the **optimizing** proce
+## https://kr-asia.com/this-singapore-startup-marries-3d-printing-with-orthodontics-to-bring-out-great-smiles-at-affordable-price-startup-stories
+### When Zenyum first launched, the biggest challenge was convincing customers that their product was genuine. “Getting them to believe in the legitimacy, quality, and effectiveness of our product was an uphill task,” Artopé said. “This is where having licensed dentists in all the cities we operate in helped us a great deal.”
+#### This connects to me at a #personal level. When the general price range starts from SGD8,000 and when I myself paid SGD10,000 + to get my braces done, it is definitely a shock to hear that the same thing can be done within SGD3,000.
+### What distinguishes Zenyum is a combination of teamwork with its partner dentists, ensuring that everyone receives personal treatment, as well as a stellar customer success team, which provides step-by-step assistance.
+### “With Zenyum’s technology and affordable pricing, we created a new niche in the orthodontic market.”
 ##
-## When Zenyum first launched, the biggest challenge was convincing customers that their product was genuine. “Getting them to believe in the legitimacy, quality, and effectiveness of our product was an uphill task,” Artopé said. “This is where having licensed dentists in all the cities we operate in helped us a great deal.”
-### This connects to me at a #personal level. When the general price range starts from SGD8,000 and when I myself paid SGD10,000 + to get my braces done, it is definitely a shock to hear that the same thing can be done within SGD3,000.
-## What distinguishes Zenyum is a combination of teamwork with its partner dentists, ensuring that everyone receives personal treatment, as well as a stellar customer success team, which provides step-by-step assistance.
+## Genetic testing can be done from USD100 up-to USD2000. This is fairly reasonable as the total cost for a cancer patient can go up-to USD100,000 **per year**
+## The reason [[Tempus]] succeded, is down to two things (1) its emmese diversification (2) speed and effectiveness of results
+## You need to know what you are dealing with
+## Needed for specific targeting of tumors.
+## How little data is available. We are giving truck drivers more "tech-tonic shifts" then we are given to doctors making life and death decisions.
+## Tempus acts a link. It provides the patients with so much data that that can then be processed further throughout the patient care pipeline developing better healthcare.
+e.
 ents. Healthcare demand already outstrips supply in Asia–Pacific, and the gap will grow in line with continued increases in income, population, disease burdens, and general awareness of health issues.
 ### Asia–Pacific is a complicated collection of individual markets, often with little in common other than a shared continent. Political systems, economic development, cultural mores, and disease profiles, among other characteristics, vary widely from one country to the next.
 #### **Relate to ->** The disease profile is something that is seen in the NHS. The various drug profiles + the antibiotic production.
