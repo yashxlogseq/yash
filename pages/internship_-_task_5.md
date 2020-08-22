@@ -83,6 +83,9 @@
 #### EOS  are cost advantages that can occur when a company increases their scale of production and becomes more efficient, resulting in a decreased cost-per-unit.
 #### Internal economies of scale are controlled by the company.
 ##### This is something that technology enables MedTech firms to do
+#### Technical economies of scale are a type of internal economy of scale.
+#### Purchasing economies of scale, also called buying economies of scale, are a type of internal economy of scale.
+#### They are economies of scale enable more favourable rates of borrowing
 p:* Youtube can be a great source of understanding the various aspects of the timeline
 ## ***Recommended Structure:
 ##### Though out of context, financial transfer, stocks etc. have "reexamined their commercial models" to suite the times better.
@@ -136,9 +139,21 @@ t
 ### When Zenyum first launched, the biggest challenge was convincing customers that their product was genuine. “Getting them to believe in the legitimacy, quality, and effectiveness of our product was an uphill task,” Artopé said. “This is where having licensed dentists in all the cities we operate in helped us a great deal.”
 #### This connects to me at a #personal level. When the general price range starts from SGD8,000 and when I myself paid SGD10,000 + to get my braces done, it is definitely a shock to hear that the same thing can be done within SGD3,000.
 ### What distinguishes Zenyum is a combination of teamwork with its partner dentists, ensuring that everyone receives personal treatment, as well as a stellar customer success team, which provides step-by-step assistance.
-### “With Zenyum’s technology and affordable pricing, we created a new niche in the orthodontic market.”
+### “With Zenyum’s technology and affordable pricing, we created a new niche in the orthodontic market
+## Tempus
+�
 ##
 ## Genetic testing can be done from USD100 up-to USD2000. This is fairly reasonable as the total cost for a cancer patient can go up-to USD100,000 **per year**
+## The reason [[Tempus]] succeded, is down to two things (1) its emmese diversification (2) speed and effectiveness of results
+## You need to know what you are dealing with
+## Needed for specific targeting of tumors.
+## How little data is available. We are giving truck drivers more "tech-tonic shifts" then we are given to doctors making life and death deci### Tempus acts a link. It provides the patients with so much data that that can then be processed further throughout the patient care pipeline developing better healthcare.
+### How little data is available. We are giving truck drivers more "tech-tonic shifts" then we are given to doctors making life and death decisions.
+### Needed for specific targeting of tumors.
+### You need to know what you are dealing with
+### The reason [[Tempus]] succeded, is down to two things (1) its emmese diversification (2) speed and effectiveness of results
+### Genetic testing can be done from USD100 up-to USD2000. This is fairly reasonable as the total cost for a cancer patient can go up-to USD100,000 **per year**
+year**
 ## The reason [[Tempus]] succeded, is down to two things (1) its emmese diversification (2) speed and effectiveness of results
 ## You need to know what you are dealing with
 ## Needed for specific targeting of tumors.
