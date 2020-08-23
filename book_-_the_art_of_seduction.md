@@ -35,6 +35,110 @@ ural
 ##### The Idol Workshiper
 ##### The Sensualist
 ##### The Lonely Leader
+##### The Flo#### The Floating Gender
+#### The Lonely Leader
+#### The Sensualist
+#### The Idol Workshiper
+#### The Roué
+#### The Rescuer
+#### The Aging Baby
+#### The Beauty
+#### The Professor
+#### The Drama Queen
+#### The Exotic Ferishist
+#### The Conqueror
+#### The Anti-Seducer (The Crab)
+#### The Star (The Idol)
+#### The Charmer (The mirror)
+#### The Coquette
+#### The Natural
+uette
+##### The Charmer (The mirror)
+##### The Star (The Idol)
+##### The Anti-Seducer (The Crab)
+##### The Conqueror
+##### The Exotic Ferishist
+##### The Drama Queen
+##### The Professor
+##### The Beauty
+##### The Aging Baby
+##### The Rescuer
+##### The Roué
+##### The Idol Workshiper
+##### The Sensualist
+##### The Lonely Leader
+##### The Flo### The Floating Gender
+### The Lonely Leader
+### The Sensualist
+### The Idol Workshiper
+### The Roué
+### The Rescuer
+### The Aging Baby
+### The Beauty
+### The Professor
+### The Drama Queen
+### The Exotic Ferishist
+### The Conqueror
+### The Anti-Seducer (The Crab)
+### The Star (The Idol)
+### The Charmer (The mirror)
+### The Coquette
+### The Natural
+### The Dandy
+### The Ideal Lover
+### The Rake
+### The Siren
+#### The Rake
+#### The Ideal Lover
+#### The Dandy
+ural
+##### The Coquette
+##### The Charmer (The mirror)
+##### The Star (The Idol)
+##### The Anti-Seducer (The Crab)
+##### The Conqueror
+##### The Exotic Ferishist
+##### The Drama Queen
+##### The Professor
+##### The Beauty
+##### The Aging Baby
+##### The Rescuer
+##### The Roué
+##### The Idol Workshiper
+##### The Sensualist
+##### The Lonely Leader
+##### The Flo#### The Floating Gender
+#### The Lonely Leader
+#### The Sensualist
+#### The Idol Workshiper
+#### The Roué
+#### The Rescuer
+#### The Aging Baby
+#### The Beauty
+#### The Professor
+#### The Drama Queen
+#### The Exotic Ferishist
+#### The Conqueror
+#### The Anti-Seducer (The Crab)
+#### The Star (The Idol)
+#### The Charmer (The mirror)
+#### The Coquette
+#### The Natural
+uette
+##### The Charmer (The mirror)
+##### The Star (The Idol)
+##### The Anti-Seducer (The Crab)
+##### The Conqueror
+##### The Exotic Ferishist
+##### The Drama Queen
+##### The Professor
+##### The Beauty
+##### The Aging Baby
+##### The Rescuer
+##### The Roué
+##### The Idol Workshiper
+##### The Sensualist
+##### The Lonely Leader
 ##### The Floating Gender
 more effective to create love than lust
 #### The New Prude
