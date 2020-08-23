@@ -14,12 +14,19 @@
 ### A seducer has learned how to tone down the sexual element without getting rid out it.
 ### One social or sexual seduction makes the next one easier, your confidence growing and making you more alluring.
 ### [[Seduction as a process of penetration]]
+#### #love #personality
 #### This sounds a little bit crazy. When I first heard it I was, wtaf. What are you saying?
 #### The two parts: Penetrate the mind of the victim
 ##### The point made by [[Robert Greene]] is that once you look at the world form the eyes of the victim, you kill their "first line of defence".
 ##### This can also be seen as you look at your self from their point of view. You can then work on yourself to improve the image you have on her that you see from her eyes. This does not make much sense, but it sure does.
 ### "First, self-absorption is a sign of insecurity; it is anti-seductive. Everyone has insecurities, but seducers manage to ignore them, finding therapy for moments of self-doubt by being absorbed in the world."
 ### "What people lack in life is not more reality but illusion, fantasy, play." and "Seduction is a kind of theater in real life, the meeting of illusion and reality."
+### [[The first move]]
+   :PROPERTIES:
+   :CUSTOM_ID: 5f41eabe-9088-41ee-be4f-86b0f170ca9e
+   :END:
+#### #love #personality #lifeadvice
+#### "If you strategize without paying attention to the parts of your character that draw people to you, you will be seen as a mechanical seducer, slimy and manipulative. If you rely on your seductive personality without paying attention to the other person, you will make terrible mistakes and limit your potential."
 ## Part one: The Seductive Character
 
 #### The Siren
