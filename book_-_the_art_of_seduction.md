@@ -68,7 +68,7 @@
 ##### **The smile**
 ###### A notion that Bollywood and other sources of love advice have given us, is that it is all about the smile. This is not true. As Arjun Reddy says, it should be about the way how you breathe, not your physical features.
 ####### "Although a smile and an inviting look are infinitely seductive, they must never dominate your appearance. They are too obvious and direct."
-###### "Related to this is the notion of selective disclosure****, the revealing of only a part of the body—but a part that will excite and stir the imagination."
+###### "Related to this is the notion of **selective disclosure**, the revealing of only a part of the body—but a part that will excite and stir the imagination."
 ####### Example: "Queen Catherine de Médicis of France, was one of the first women ever to incorporate decolletage in her wardrobe, simply because she had the most beautiful breasts in the realm."
 ##### **The Voice**
 ###### The other thing is that this is about the voice.
