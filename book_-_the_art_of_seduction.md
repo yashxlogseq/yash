@@ -77,7 +77,7 @@
 ###### "The Siren never speaks quickly, aggressively, or at a high pitch." #Quote
 ####### This is what I realised what make people [[Atal Bihari Vajpayee]] so 'sexy' in some kind. The slow voice, the balanced intesity is what men and women find so attractive and what they find a glue.
 ####### This is what intense speakers like Suraj Kumar and BeerBiceps lack.
-##### **"The key: everything must dazzle, but must also be harmonious, so that no single ornament draws attention."**
+#### **"The key: everything must dazzle, but must also be harmonious, so that no single ornament draws attention."**
 ####
 ### The Rake
 e
