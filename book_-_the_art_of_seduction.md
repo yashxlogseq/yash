@@ -5,16 +5,14 @@
 ## **Preface**
 ### "Today no political campaign can w
 ### Seduction is a process that is constant. You need to use pleasure as a bait, playing on peoples emotions, stirring desire and confusion inducing **physiological surrender**.
+#### [[Seducers and Love]]
+####### #EVERGREEN #life #love
+####### The seducers are those who "understand the tremendous power contained in the moments of surrender (in love)".
+####### In lust, you cannot ocntrol ones emotion. It is like a desire, not fueled by love, but something else. Maybe envy? Maybe anger? Something like in the [[BOOK - 1984]].
+######## "He hated her because she was young and pretty and sexless, because he wanted to go to bed with her and would never do so, because round her sweet supple waist, which seemed to ask you to encircle it with your arm, there was only the odious scarlet sash, aggressive symbol of chastity".
+####### "A person in lust is harder to control and, once satisfied, may easily leave you. Seducers take their time, create enchantment and the bonds of love" and "Creating love and enchantment becomes the model for all seductions—sexual, social, political. A person in love will surrender."
 ## Part one: The Seductive Character
-### Seduction is a process that is constant. You need to use pleasure as a bait, playing on peoples emotions, stirring desire and confusion inducing **physiological surrender**.
-### [[Seducers and Love]]
-REEN #life #love
-###### The seducers are those who "understand the tremendous power contained in the moments of surrender (in love)".
-###### In lust, you cannot ocntrol ones emotion. It is like a desire, not fueled by love, but something else. Maybe envy? Maybe anger? Something like in the [[BOOK - 1984]].
-####### "He hated her because she was young and pretty and sexless, because he wanted to go to bed with her and would never do so, because round her sweet supple waist, which seemed to ask you to encircle it with your arm, there was only the odious scarlet sash, aggressive symbol of chastity".
-###### "A person in lust is harder to control and, once satisfied, may easily leave you. Seducers take their time, create enchantment and the bonds of love" and "Creating love and enchantment becomes the model for all seductions—sexual, social, political. A person in love will surrender."
-##### ]
-#####
+
 #### The Siren
 #### The Rake
 #### The Ideal Lover
