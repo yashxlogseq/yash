@@ -80,10 +80,24 @@
 ####### This is what intense speakers like Suraj Kumar and BeerBiceps lack.
 #### **"The key: everything must dazzle, but must also be harmonious, so that no single ornament draws attention."**
 ### **The Rake**
-#### The key of the rake is to let your self go.
+#### The key of the rake is to let your self go. The main idea of the rake is understanding the physce of women.
+##### _"To play the Rake, the most obvious requirement is the ability to let yourself go, to draw a woman into the kind of purely sensual moment in which past and future lose meaning."_
+##### This is something that I have heard before known as mixing and matching.
+##### Though I do not really like the idea of the Rake, I need to imbibe the qualities of the Rake to read women, and look through women in the cleanest sense possible.
 #### "A woman is often defensive and can sense insincerity or calculation. But if she feels consumed by your attentions, and is confident you will do anything for her, she will notice nothing else about you, or will find a way to forgive your indiscretions. This is the perfect cover for a seducer. The key is to show no hesitation, to abandon all restraint, to let yourself go, to show that you cannot control yourself and are fundamentally weak."
 #### "For women the weakness is language and words"
-##### This is manupilation. Clear, all out manipulation.
+##### This is manipulation. Clear, all out manipulation. This play of words is something that comes out in the Amazon Prime Video show - Pushpavalli.
+#### "The Rake is as promiscuous with words as he is with women…The less your targets focus on what you say, and the more on how it makes them feel, the more seductive your effect."
+##### The rake is someone who probably succeds the most, but the fact that you are manupilating all your chracteristics (maybe not all) is not something that I resonate with.
+#### "What the Rake offers is what society normally does not allow women: an affair of pure pleasure, an exciting brush with danger."
+#### "Don Juan slowly evolved from the masculine adventurer to a more feminized version: a man who lived only for women."
+##### "those repressed desires that cry out for liberation."
+#### "Remember: if no resistances or obstacles face you, you must create them. No seduction can proceed without them."
+##### The thing is that overcoming fears, beating a problem is what I think attracts women and becomes "sexy".
+#### Examples
+##### Bill Clinton
+###### "When President Bill Clinton was clearly caught out as a Rake, it was women who rushed to his defense, finding every possible excuse for him. The fact that the Rake is so devoted to women, in his own strange way, makes him lovable and seductive to them."
+#### Finally, a Rake's greatest asset is his reputation. Never downplay your bad name, or seem to apologize for it. Instead, embrace it, enhance it. It is The Rake what draws women to you. There are several things you must be known for: your irresistible attractiveness to women; your uncontrollable devotion to pleasure (this will make you seem weak, but also exciting to be around).
 e
 #### The Ideal Lover
 #### The Dandy
