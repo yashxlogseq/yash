@@ -59,12 +59,20 @@
 ##### **The smile**
 ###### A notion that Bollywood and other sources of love advice have given us, is that it is all about the smile. This is not true. As Arjun Reddy says, it should be about the way how you breathe, not your physical features.
 ####### "Although a smile and an inviting look are infinitely seductive, they must never dominate your appearance. They are too obvious and direct."
+###### "Related to this is the notion of selective disclosure, the revealing of only a part of the body—but a part that will excite and stir the imagination."
+####### Example: "Queen Catherine de Médicis of France, was one of the first women ever to incorporate decolletage in her wardrobe, simply because she had the most beautiful breasts in the realm."
 ##### **The Voice**
 ###### The other thing is that this is about the voice.
 ####### "Perhaps that power is regressive, recalling the ability of the mother's voice to calm or excite her child even before the child understood what she was saying."
 ###### This is the voice that a Siren or a seducer in general must have, in my opnion.
-n
-#### The Rake
+###### "Marilyn Monroe was born with her breathy, childlike voice, but she learned to lower to make it truly seductive. Lauren Bacall's voice is naturally low; its seductive power comes from its slow, suggestive delivery."
+###### "The Siren never speaks quickly, aggressively, or at a high pitch." #Quote
+####### This is what I realised what make people [[Atal Bihari Vajpayee]] so 'sexy' in some kind. The slow voice, the balanced intesity is what men and women find so attractive and what they find a glue.
+####### This is what intense speakers like Suraj Kumar and BeerBiceps lack.
+#### **"The key: everything must dazzle, but must also be harmonious, so that no single ornament draws attention."**
+####
+### The Rake
+e
 #### The Ideal Lover
 #### The Dandy
 ural
