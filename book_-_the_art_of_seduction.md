@@ -5,10 +5,11 @@
 ## **Preface**
 ### "Today no political campaign can w
 ### Seduction is a process that is constant. You need to use pleasure as a bait, playing on peoples emotions, stirring desire and confusion inducing **physiological surrender**.
-### [[Seducers and Love]] #EVERGREEN #life #love
+### [[Seducers and Love]] 
    :PROPERTIES:
    :CUSTOM_ID: 5f41e772-3771-4706-b667-2d2a807e8d9b
    :END:
+###### #EVERGREEN #life #love
 ###### The seducers are those who "understand the tremendous power contained in the moments of surrender (in love)".
 ###### This is something related to [[BOOK - 1984]]. Everyone who is looking for lust is doing it maybe anger? Maybe greed? Maybe envy?
 ####### "He hated her because she was young and pretty and sexless because he wanted to go to bed with her and would never do so, because round her sweet supple waist, which seemed to ask you to encircle it with your arm, there was only the odious scarlet sash, aggressive symbol of chastity".
@@ -25,10 +26,11 @@
 #### The point made by [[Robert Greene]] is that once you look at the world form the eyes of the victim, you kill their "first line of defence". This can also be seen as you look at your self from their point of view. You can then work on yourself to improve the image you have on her that you see from her eyes. This does not make much sense, but it sure does.
 ### "First, self-absorption is a sign of insecurity; it is anti-seductive. Everyone has insecurities, but seducers manage to ignore them, finding therapy for moments of self-doubt by being absorbed in the world."
 ### "What people lack in life is not more reality but illusion, fantasy, play." and "Seduction is a kind of theater in real life, the meeting of illusion and reality."
-### [[The first move]] #love #personality #lifeadvice
+### [[The first move]] 
    :PROPERTIES:
    :CUSTOM_ID: 5f41eabe-9088-41ee-be4f-86b0f170ca9e
    :END:
+#### #love #personality #lifeadvice
 #### "If you strategize without paying attention to the parts of your character that draw people to you, you will be seen as a mechanical seducer, slimy and manipulative. If you rely on your seductive personality without paying attention to the other person, you will make terrible mistakes and limit your potential."
 ## Part one: The Seductive Character
 
