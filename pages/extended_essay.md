@@ -18,14 +18,14 @@ oncentrations and volumes of thyroxine and iodine change the absorbance (spectro
 ### A useful [YouTube Channel](https://www.youtube.com/channel/UC0rth6B4ThMRJZZXNSveckw)
 ## [[Procedure]] Research -> [Source](https://user.eng.umd.edu/~nsw/ench485/lab3.htm)
 ## CHECKLIST
-### TODO The multiple experiment stuff
+### DONE The multiple experiment stuff
 ### NOW Hypothesis
 ### DONE Check availability of casein. **NOT AVAILABLE**
 ### DONE Make procedure suitable to your experiment
 ### DONE Experiment - Effect of thyroxine on the rate of digestion
 ### DONE Experiment - The control experiment
 ### DONE Which enzyme?
-### TODO Method to quantify ((5f3007ee-1763-4c0e-ae78-09ffecaf6ef1)) metabolism
+### DONE Method to quantify ((5f3007ee-1763-4c0e-ae78-09ffecaf6ef1)) metabolism
 ### DONE Method to quantify ((5f3007ee-1b9a-4fc6-b0a8-dfc6eff081dc)) metabolism
 ### DONE MPV - A for 
 ## [[Protein Investigation]]
