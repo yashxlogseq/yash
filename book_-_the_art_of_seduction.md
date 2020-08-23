@@ -19,7 +19,7 @@
 ##### The point made by [[Robert Greene]] is that once you look at the world form the eyes of the victim, you kill their "first line of defence".
 ##### This can also be seen as you look at your self from their point of view. You can then work on yourself to improve the image you have on her that you see from her eyes. This does not make much sense, but it sure does.
 ### "First, self-absorption is a sign of insecurity; it is anti-seductive. Everyone has insecurities, but seducers manage to ignore them, finding therapy for moments of self-doubt by being absorbed in the world."
-###
+### "What people lack in life is not more reality but illusion, fantasy, play." and "Seduction is a kind of theater in real life, the meeting of illusion and reality."
 ## Part one: The Seductive Character
 
 #### The Siren

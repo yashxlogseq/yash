@@ -9,4 +9,6 @@
 #### [[Mid- and lower-tier customer needs]]
 #### [[Patients are turning to digital channels]]
 ## [[Life]]
-### [[Seducers and Love]]
+### [[Love]]
+#### [[Seducers and Love]]
+#### [[Seduction as a process of penetration]]
