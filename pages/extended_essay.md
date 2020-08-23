@@ -1,8 +1,3 @@
----
-title: Extended Essay
-tags:
----
-
 ## **RQ: How do varying concentrations and volumes of thyroxine and iodine change the absorbance (spectrophotometer) and enthalpy as phosphoproteins are digested?**
 ## Useful Links
 ### [Proteolytic Enzymes = Protein Digestion by Pepsin (HINDI) Biochemistry By Solution Pharmacy](https://www.youtube.com/watch?v=_BPEuLcR4_I)
@@ -19,7 +14,7 @@ oncentrations and volumes of thyroxine and iodine change the absorbance (spectro
 ## [[Procedure]] Research -> [Source](https://user.eng.umd.edu/~nsw/ench485/lab3.htm)
 ## CHECKLIST
 ### DONE The multiple experiment stuff
-### NOW Hypothesis
+### DONE Hypothesis
 ### DONE Check availability of casein. **NOT AVAILABLE**
 ### DONE Make procedure suitable to your experiment
 ### DONE Experiment - Effect of thyroxine on the rate of digestion
