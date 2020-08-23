@@ -5,32 +5,32 @@
 ## **Preface**
 ### "Today no political campaign can work without seduction".
 ### Seduction is a process that is constant. You need to use pleasure as a bait, playing on peoples emotions, stirring desire and confusion inducing **physiological surrender**.
-###### The Conqueror
+####### The Conqueror
 ###### The Exotic Ferishist
-###### The Drama Queen
-###### The Professor
-###### The Beauty
-###### The Aging Baby
-###### The Rescuer
-###### The Roué
-###### The Idol Workshiper
-###### The Sensualist
-###### The Lonely Leader
-###### The Floating Gender
-### [[Seducers and Love]]
-#### #EVERGREEN #life #love
-#### The seducers are those who "understand the tremendous power contained in the moments of surrender (in love)".
-#### It is more effective to create love than lust
- Dandy
-### The Natural
-### The Coquette
-### The Charmer (The mirror)
-### The Star (The Idol)
-### The Anti-Seducer (The Crab)
+#### The Drama Queen
+e Professor
+### The Beauty
+### The Aging Baby
+### The Rescuer
+### The Roué
+### The Idol Workshiper
+### The Sensualist
+### The Lonely Leader
+### The Floating Gender
+#### #
 ## The Seducer's Victims - The 18 types
+#### The seducers are those who "understand the tremendous power contained in the moments of surrender (in love)".
+#### In lust, you cannot ocntrol ones emotion. It is like a desire, not fueled by love, but something else. Maybe envy? Maybe anger? Something like in the [[BOOK - 1984]].
 ### Victim Theory
 ### The 18 types
 #### The Reformed Rake or Siren
+#### The Disappointed Dreamer
+#### The Pampered Royal
+#### It is more effective to create love than lust
+#### The New Prude
+#### The Crushed Star
+#### The Novice
+or Siren
 #### The Disappointed Dreamer
 #### The Pampered Royal
 #### The New Prude
