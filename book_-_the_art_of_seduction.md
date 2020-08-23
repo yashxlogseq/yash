@@ -5,27 +5,24 @@
 ## **Preface**
 ### "Today no political campaign can w
 ### Seduction is a process that is constant. You need to use pleasure as a bait, playing on peoples emotions, stirring desire and confusion inducing **physiological surrender**.
-### [[Seducers and Love]]
-###### #EVERGREEN #life #love
+### [[Seducers and Love]] #EVERGREEN #life #love
 ###### The seducers are those who "understand the tremendous power contained in the moments of surrender (in love)".
 ###### In lust, you cannot ocntrol ones emotion. It is like a desire, not fueled by love, but something else. Maybe envy? Maybe anger? Something like in the [[BOOK - 1984]].
 ####### "He hated her because she was young and pretty and sexless, because he wanted to go to bed with her and would never do so, because round her sweet supple waist, which seemed to ask you to encircle it with your arm, there was only the odious scarlet sash, aggressive symbol of chastity".
 ###### "A person in lust is harder to control and, once satisfied, may easily leave you. Seducers take their time, create enchantment and the bonds of love" and "Creating love and enchantment becomes the model for all seductions—sexual, social, political. A person in love will surrender."
 ### A seducer has learned how to tone down the sexual element without getting rid out it.
 ### One social or sexual seduction makes the next one easier, your confidence growing and making you more alluring.
-### [[Seduction as a process of penetration]]
-#### #love #personality
+### [[Seduction as a process of penetration]] #love #personality
 #### This sounds a little bit crazy. When I first heard it I was, wtaf. What are you saying?
 #### The two parts: Penetrate the mind of the victim
 ##### The point made by [[Robert Greene]] is that once you look at the world form the eyes of the victim, you kill their "first line of defence".
 ##### This can also be seen as you look at your self from their point of view. You can then work on yourself to improve the image you have on her that you see from her eyes. This does not make much sense, but it sure does.
 ### "First, self-absorption is a sign of insecurity; it is anti-seductive. Everyone has insecurities, but seducers manage to ignore them, finding therapy for moments of self-doubt by being absorbed in the world."
 ### "What people lack in life is not more reality but illusion, fantasy, play." and "Seduction is a kind of theater in real life, the meeting of illusion and reality."
-### [[The first move]]
+### [[The first move]] #love #personality #lifeadvice
    :PROPERTIES:
    :CUSTOM_ID: 5f41eabe-9088-41ee-be4f-86b0f170ca9e
    :END:
-#### #love #personality #lifeadvice
 #### "If you strategize without paying attention to the parts of your character that draw people to you, you will be seen as a mechanical seducer, slimy and manipulative. If you rely on your seductive personality without paying attention to the other person, you will make terrible mistakes and limit your potential."
 ## Part one: The Seductive Character
 
