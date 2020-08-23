@@ -30,7 +30,40 @@
    :END:
 #### "If you strategize without paying attention to the parts of your character that draw people to you, you will be seen as a mechanical seducer, slimy and manipulative. If you rely on your seductive personality without paying attention to the other person, you will make terrible mistakes and limit your potential."
 ## **Part one: The Seductive Character**
-#### The Siren
+### The idea of seduction is more like ice breaker in my opinion. It is all about the first impression.
+#### "Successful seductions begin with your character, your ability to radiate some quality that attracts people and stirs their emotions in a way that is beyond their control."
+### Summary
+#### Rakes insatiably adore the opposite sex, and their desire is infectious.
+#### Ideal Lovers have an aesthetic sensibility that they apply to romance.
+#### Dandies like to play with their image, creating a striking and androgynous allure. Naturals are spontaneous and open.
+#### Coquettes are self-sufficient, with a fascinating cool at their core.
+#### Charmers want and know how to please—they are social creatures. Charismatics have an unusual confidence in themselves.
+#### Stars are ethereal and envelop themselves in mystery."
+### **The Siren**
+#### This is the macho man type thing. This and the rake are something that I am not. This is what [[Robert Greene]] told in the start itself - you may not connect with all of them, but you will connect with atleast one of them.
+##### _"The notion of danger, challenge, sometimes death, might seem outdated, but danger is critical in seduction."_
+#### The idea of danger is something that is stressed upon. You need to be a risk taker to actually be "seductive" in this catagory.
+##### The main instrument of power of the Siren is "always the physical".
+#### [[The irrational prevention of an advance]] 
+   :PROPERTIES:
+   :CUSTOM_ID: 5f424b0a-3556-4588-b93a-337fa24614ba
+   :END:
+##### "Sirens are often fantastically irrational, which is immensely attractive to men who are oppressed by their own reasonableness. An element of fear is also critical: keeping a man at a proper distance creates respect so that he doesn't get close enough to see through you or notice your weaker qualities."
+#### This is also a #BusinessAdvice : "In their immediacy they bypass rational processes, having the same effect that a decoy has on an animal, or the movement of a cape on a bull."
+##### You should have the capability to decive. This goes very well with the idea that I was talking with [[Mom]], that you should know how to repackage already existing ideas that can make you a benefit some day.
+##### It should be done in a way that people don't know, like an aiyaar (a person who changes form) or a decoy
+#### [[The physical features of a seducer]]
+   :PROPERTIES:
+   :CUSTOM_ID: 5f424d38-ce7f-46fb-9aae-9b5907a8b82e
+   :END:
+##### **The smile**
+###### A notion that Bollywood and other sources of love advice have given us, is that it is all about the smile. This is not true. As Arjun Reddy says, it should be about the way how you breathe, not your physical features.
+####### "Although a smile and an inviting look are infinitely seductive, they must never dominate your appearance. They are too obvious and direct."
+##### **The Voice**
+###### The other thing is that this is about the voice.
+####### "Perhaps that power is regressive, recalling the ability of the mother's voice to calm or excite her child even before the child understood what she was saying."
+###### This is the voice that a Siren or a seducer in general must have, in my opnion.
+n
 #### The Rake
 #### The Ideal Lover
 #### The Dandy
