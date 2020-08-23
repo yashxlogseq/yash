@@ -29,8 +29,7 @@
    :CUSTOM_ID: 5f41eabe-9088-41ee-be4f-86b0f170ca9e
    :END:
 #### "If you strategize without paying attention to the parts of your character that draw people to you, you will be seen as a mechanical seducer, slimy and manipulative. If you rely on your seductive personality without paying attention to the other person, you will make terrible mistakes and limit your potential."
-## Part one: The Seductive Character
-
+## **Part one: The Seductive Character**
 #### The Siren
 #### The Rake
 #### The Ideal Lover
