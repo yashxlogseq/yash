@@ -11,7 +11,9 @@
 ###### In lust, you cannot ocntrol ones emotion. It is like a desire, not fueled by love, but something else. Maybe envy? Maybe anger? Something like in the [[BOOK - 1984]].
 ####### "He hated her because she was young and pretty and sexless, because he wanted to go to bed with her and would never do so, because round her sweet supple waist, which seemed to ask you to encircle it with your arm, there was only the odious scarlet sash, aggressive symbol of chastity".
 ###### "A person in lust is harder to control and, once satisfied, may easily leave you. Seducers take their time, create enchantment and the bonds of love" and "Creating love and enchantment becomes the model for all seductions—sexual, social, political. A person in love will surrender."
-###
+### A seducer has learned how to tone down the sexual element without getting rid out it.
+### One social or sexual seduction makes the next one easier, your confidence growing and making you more alluring.
+### [[Seduction as a process of penetration]]
 ## Part one: The Seductive Character
 
 #### The Siren
