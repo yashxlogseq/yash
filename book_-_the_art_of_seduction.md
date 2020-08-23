@@ -42,9 +42,7 @@ ural
 #### The Aging Baby
 #### The Beauty
 #### The Professor
-#### The Drama Queen
-#### The Exotic Ferishist
-#### The Conqueror
+#### Conqueror
 #### The Anti-Seducer (The Crab)
 #### The Star (The Idol)
 #### The Charmer (The mirror)
