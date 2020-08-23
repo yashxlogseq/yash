@@ -55,7 +55,8 @@
    :CUSTOM_ID: 5f424b0a-3556-4588-b93a-337fa24614ba
    :END:
 ##### "Sirens are often fantastically irrational, which is immensely attractive to men who are oppressed by their own reasonableness. An element of fear is also critical: keeping a man at a proper distance creates respect so that he doesn't get close enough to see through you or notice your weaker qualities."
-#### This is also a #BusinessAdvice : "In their immediacy they bypass rational processes, having the same effect that a decoy has on an animal, or the movement of a cape on a bull."
+#### This is also a: "In their immediacy they bypass rational processes, having the same effect that a decoy has on an animal, or the movement of a cape on a bull."
+#BusinessAdvice
 ##### You should have the capability to decive. This goes very well with the idea that I was talking with [[Mom]], that you should know how to repackage already existing ideas that can make you a benefit some day.
 ##### It should be done in a way that people don't know, like an aiyaar (a person who changes form) or a decoy
 #### [[The physical features of a seducer]]
@@ -78,8 +79,11 @@
 ####### This is what I realised what make people [[Atal Bihari Vajpayee]] so 'sexy' in some kind. The slow voice, the balanced intesity is what men and women find so attractive and what they find a glue.
 ####### This is what intense speakers like Suraj Kumar and BeerBiceps lack.
 #### **"The key: everything must dazzle, but must also be harmonious, so that no single ornament draws attention."**
-####
-### The Rake
+### **The Rake**
+#### The key of the rake is to let your self go.
+#### "A woman is often defensive and can sense insincerity or calculation. But if she feels consumed by your attentions, and is confident you will do anything for her, she will notice nothing else about you, or will find a way to forgive your indiscretions. This is the perfect cover for a seducer. The key is to show no hesitation, to abandon all restraint, to let yourself go, to show that you cannot control yourself and are fundamentally weak."
+#### "For women the weakness is language and words"
+##### This is manupilation. Clear, all out manipulation.
 e
 #### The Ideal Lover
 #### The Dandy
