@@ -6,17 +6,20 @@
 ### "Today no political campaign can w
 ### Seduction is a process that is constant. You need to use pleasure as a bait, playing on peoples emotions, stirring desire and confusion inducing **physiological surrender**.
 ### [[Seducers and Love]]
+#EVERGREEN #love
+
    :PROPERTIES:
    :CUSTOM_ID: 5f41e772-3771-4706-b667-2d2a807e8d9b
    :END:
-###### #EVERGREEN
 ###### The seducers are those who "understand the tremendous power contained in the moments of surrender (in love)".
 ###### This is something related to [[BOOK - 1984]]. Everyone who is looking for lust is doing it maybe anger? Maybe greed? Maybe envy?
 ####### "He hated her because she was young and pretty and sexless because he wanted to go to bed with her and would never do so, because round her sweet supple waist, which seemed to ask you to encircle it with your arm, there was only the odious scarlet sash, aggressive symbol of chastity".
 ###### "A person in lust is harder to control and, once satisfied, may easily leave you. Seducers take their time, create enchantment and the bonds of love" and "Creating love and enchantment becomes the model for all seductions— sexual, social, political. A person in love will surrender."
 ### A seducer has learned how to tone down the sexual element without getting rid out it.
 ### One social or sexual seduction makes the next one easier, your confidence growing and making you more alluring.
-### [[Seduction as a process of penetration]] 
+### [[Seduction as a process of penetration]]
+#love #psyche
+
    :PROPERTIES:
    :CUSTOM_ID: 5f41e8e6-4263-4d4c-ace3-6a2cc97dcef9
    :END:
@@ -26,6 +29,8 @@
 ### "First, self-absorption is a sign of insecurity; it is anti-seductive. Everyone has insecurities, but seducers manage to ignore them, finding therapy for moments of self-doubt by being absorbed in the world."
 ### "What people lack in life is not more reality but illusion, fantasy, play." and "Seduction is a kind of theater in real life, the meeting of illusion and reality."
 ### [[The first move]]
+#EVERGREEN #love #LifeAdvice #BusinessAdvice
+
    :PROPERTIES:
    :CUSTOM_ID: 5f41eabe-9088-41ee-be4f-86b0f170ca9e
    :END:
@@ -54,6 +59,8 @@
 ##### You should have the capability to decive. This goes very well with the idea that I was talking with [[Mom]], that you should know how to repackage already existing ideas that can make you a benefit some day.
 ##### It should be done in a way that people don't know, like an aiyaar (a person who changes form) or a decoy
 #### [[The physical features of a seducer]]
+#EVERGREEN #LifeAdvice #love
+
    :PROPERTIES:
    :CUSTOM_ID: 5f424d38-ce7f-46fb-9aae-9b5907a8b82e
    :END:
@@ -70,7 +77,7 @@
 ###### "The Siren never speaks quickly, aggressively, or at a high pitch." #Quote
 ####### This is what I realised what make people [[Atal Bihari Vajpayee]] so 'sexy' in some kind. The slow voice, the balanced intesity is what men and women find so attractive and what they find a glue.
 ####### This is what intense speakers like Suraj Kumar and BeerBiceps lack.
-#### **"The key: everything must dazzle, but must also be harmonious, so that no single ornament draws attention."**
+##### **"The key: everything must dazzle, but must also be harmonious, so that no single ornament draws attention."**
 ####
 ### The Rake
 e

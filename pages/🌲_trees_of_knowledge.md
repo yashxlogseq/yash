@@ -11,8 +11,5 @@
 ## [[Life]]
 ### [[Love]]
 #### [[Seducers and Love]]
-#### [[Seduction as a process of penetration]]
 #### [[The first move]]
-#### [[The irrational prevention of an advance]]
 #### [[The physical features of a seducer]]
-####
