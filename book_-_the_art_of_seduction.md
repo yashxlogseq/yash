@@ -103,8 +103,9 @@
 ##### This is also suggested by the line: "Often the ideal is expressed in contradiction."
 ##### I have also seen this in life. Words can so easily be manipulated and often it is words which have deceived us, especially in the situation where we go like, "I don't mean to sound cocky" or "Do not take this in the other way" and things like that.
 #### [[Power and Love]]
-#power #love #life #LifeAdvice
-##### ((5f431aef-e692-475b-a452-3f25c3187b6d))
+#EVERGREEN #power #love #life #LifeAdvice
+##### "Power is the most taboo topic of all: although it is the reality we deal with every day in our struggles with people, there is nothing noble, self-sacrificing, or spiritual about it. Ideal Lovers make you feel nobler, make the sensual and sexual seem spiritual and aesthetic. Like all seducers, they play with power, but they disguise their manipulations behind the facade of an ideal. Few people see through them and their seductions last longer."
+####
 ver
 #### The Dandy
 ural
