@@ -97,9 +97,15 @@
 #### Examples
 ##### Bill Clinton
 ###### "When President Bill Clinton was clearly caught out as a Rake, it was women who rushed to his defense, finding every possible excuse for him. The fact that the Rake is so devoted to women, in his own strange way, makes him lovable and seductive to them."
-#### Finally, a Rake's greatest asset is his reputation. Never downplay your bad name, or seem to apologize for it. Instead, embrace it, enhance it. It is The Rake what draws women to you. There are several things you must be known for: your irresistible attractiveness to women; your uncontrollable devotion to pleasure (this will make you seem weak, but also exciting to be around).
-e
-#### The Ideal Lover
+#### Finally, a Rake's greatest asset is his reputation. Never downplay your bad name, or seem to apologize for it. Instead, embrace it, enhance it. It is The Rake what draws women to you. There are several things you must be known for: your irresistible attractiveness to women; your uncontrollable devotion to pleasure (this will make you seem weak, but also exciting to be around)
+### **The Ideal Lover**
+#### "Ignore your targets' words and conscious behavior; focus on the tone of their voice, a blush here, a look there—those signs that betray what their words won't say."
+##### This is also suggested by the line: "Often the ideal is expressed in contradiction."
+##### I have also seen this in life. Words can so easily be manipulated and often it is words which have deceived us, especially in the situation where we go like, "I don't mean to sound cocky" or "Do not take this in the other way" and things like that.
+#### [[Power and Love]]
+#power #love #life #LifeAdvice
+##### ((5f431aef-e692-475b-a452-3f25c3187b6d))
+ver
 #### The Dandy
 ural
 ##### The Coquette

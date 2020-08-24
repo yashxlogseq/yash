@@ -31,3 +31,12 @@ Cumulate, adapt and infer all the data collected throughout the week. This would
 #### every extra infographic which is apt - +10 points
 ### **Note**: The best report amongst all interns would be a special edition newsletter + 50 bonus points for selected ones and they would be featured directly in the Newsletter.
 ### **Submission Deadline**: [[Aug 24th, 2020]] , 23:59 GMT
+## The past and present of tech lie in [[Market appropriate innvoation]]. The future lies with [[Patients are turning to digital channels]]
+## https://www.statnews.com/2020/02/10/10-reasons-why-health-care-startups-fail/
+### Grounded in science and regulated by the government, health care is a challenging sector.
+### The 10 reasons for failure
+#### Failure to properly articulate your value proposition
+##### Too many companies in health care describe themselves as “better, faster, cheaper” than what’s already on the market.
+##### How is your solution better? How much faster? How much cheaper than the **standard of care**?
+##### You need to understand the **health care economics** for each stakeholder.
+#####
