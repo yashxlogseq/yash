@@ -35,8 +35,18 @@ Cumulate, adapt and infer all the data collected throughout the week. This would
 ## https://www.statnews.com/2020/02/10/10-reasons-why-health-care-startups-fail/
 ### Grounded in science and regulated by the government, health care is a challenging sector.
 ### The 10 reasons for failure
-#### Failure to properly articulate your value proposition
+#### 1. Failure to properly articulate your value proposition
 ##### Too many companies in health care describe themselves as “better, faster, cheaper” than what’s already on the market.
 ##### How is your solution better? How much faster? How much cheaper than the **standard of care**?
 ##### You need to understand the **health care economics** for each stakeholder.
-#####
+##### Health care companies are required to amass specific evidence and data to achieve key milestones such as raising capital, regulatory clearance or approval, and obtaining insurance reimbursement or payment. A common mistake is thinking about evidence generation in a linear manner and focusing just on what is needed for the next milestone. This is a common and costly error that can significantly delay time to success.
+#### 2. Not having an end-to-end evidence generation strategy
+##### Health care companies are required to amass specific evidence and data to achieve key milestones such as raising capital, regulatory clearance or approval, and obtaining insurance reimbursement or payment. A common mistake is thinking about evidence generation in a linear manner and focusing just on what is needed for the next milestone. This is a common and costly error that can significantly delay time to success.
+###### Take it back to the Evernote vs Roam Research. Business works like a web (Roam Research), and is not linear
+##### Far too many startups succeed in achieving a regulatory milestone but then run out of funding before generating sufficient evidence to convince customers to buy their products.
+#### 3. Choosing the wrong CEO
+##### Common ways to tell if you need to replace the CEO — even with an acting CEO — include overconfidence, dismissiveness, arrogance, and a lack of transparency about important details.
+#### 4. Staying in stealth too long
+##### To be successful, a company needs to be talking to investors, customers, health care providers, patients, and potential acquirers early and often. Stakeholder input is needed early to avoid mistakes that can kill a company down the road.
+###### "If you rely on your seductive personality without paying attention to the other person, you will make terrible mistakes and limit your potential."
+###### The seductive nature here can be implied to be the USP of the firm, while the 'other person' is the investor.
