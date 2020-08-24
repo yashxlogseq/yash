@@ -50,3 +50,10 @@ Cumulate, adapt and infer all the data collected throughout the week. This would
 ##### To be successful, a company needs to be talking to investors, customers, health care providers, patients, and potential acquirers early and often. Stakeholder input is needed early to avoid mistakes that can kill a company down the road.
 ###### "If you rely on your seductive personality without paying attention to the other person, you will make terrible mistakes and limit your potential."
 ###### The seductive nature here can be implied to be the USP of the firm, while the 'other person' is the investor.
+#### 5. Thinking the direct-to-consumer model will make life easier
+##### The idea of [[Patients are turning to digital channels]]
+##### The problem is that this relies on the often-flawed assumption that consumers are willing to pay out of pocket for health-related products and services.
+###### This turns to the fact that healthcare, like in the UK, is neither free or like in Malaysia cheap (which recieves for )
+#### Firstly, I would really like to thank you for the rescheduling application. I was personally starting to feel the pressure 😅
+#### Before I submit the form, I would like to clarify how the grading system and leaderboard would work or change...
+#### Thank you!
